@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,MK Home
-https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
 #EXTINF:-1,Chis Soung Nova SD
 http://splaytv.club:80/xwgp5W/2g1Xr6/147457
@@ -21,143 +21,24 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:-1,MVM
 https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
-#EXTINF:-1,Baby TV SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/147441?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,Cartoon Network SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83536
-
-#EXTINF:-1,Cartoonito SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83531
-
-#EXTINF:-1,Discovery Kids SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83543
-
-#EXTINF:-1,Disney Channel SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83545
-
 ===================================================
-#EXTINF:-1,MK_Test 1
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1725638363-0-0-f758eb83bc6bffd80daed91cdeb2f5a7
 
 #EXTINF:-1,TNT Sport
-http://redima.pro:8880/live/VALLE1402/VALLE1402/323.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+http://redima.pro:8880/live/VALLE1402/VALLE1402/323.m3u8
 
 #EXTINF:-1,Astro_Sport HD 1
-http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
 
 #EXTINF:-1,Astro_Sport HD 2
-http://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,ESPN_SPORT 2 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83552?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,ESPN_SPORT 3 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83553?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,ESPN_SPIRT 4 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83560?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,ESPN_SPORT 5 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83561?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,ESPN_SPORT 6 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/162802?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,SporTV 1 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83623?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,SporTV 2 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83624?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,SporTV 3 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83625?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,Premiere 1 Clubes SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83601?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,BAND Sports SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83529?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,UFC Fight Pass SD [UFC TV]
-http://splaytv.club:80/xwgp5W/2g1Xr6/169515?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
-#EXTINF:-1,Combate Fight SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83538?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+http://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
 
 ==================================================
 
-#EXTINF:-1,Canal do Boi SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83533
-
-#EXTINF:-1,CONMEBOL Paramount+ 1 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/122541
-
-#EXTINF:-1,Curta! SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83540
-
-#EXTINF:-1,Discovery Channel SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83541
-
-#EXTINF:-1,Discovery Home & Health SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83542
-
-#EXTINF:-1,Discovery ID SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83578
-
-#EXTINF:-1,Discovery Science SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/162807
-
-#EXTINF:-1,Discovery Theater SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/162806
-
-#EXTINF:-1,Discovery Turbo SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83544
-
-#EXTINF:-1,Fashion TV SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/162801
-
-#EXTINF:-1,Film & Arts SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83646
-
-#EXTINF:-1,Fish TV SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83556
-
-#EXTINF:-1,Food Network SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83557
-
-#EXTINF:-1,GB Araxá MG SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/162708
-
-#EXTINF:-1,GB Bahia Salvador SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83644
-
-#EXTINF:-1,GB Brasilia SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83564
-
-#EXTINF:-1,GB EPTV Central Sao Carlos SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83549
 
 ==================================================
 
 #EXTINF:-1,***Inter Movie***
 http://lnc-cinevault-80s.tubi.video/1200.m3u8
-
-
-#EXTINF:-1,TNT_MOVIE SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83638
-
-#EXTINF:-1,AXN SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83524
-
-#EXTINF:-1,Cinemax SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83537
-
-#EXTINF:-1,Paramount Channel SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83597
-
-#EXTINF:-1,FX SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83563
 
 #EXTINF:-1,Movies Action
 http://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/high.m3u8
@@ -165,20 +46,8 @@ http://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/high.m3u8
 #EXTINF:-1,Sony Movie
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1,Canal Sony SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83534
-
-#EXTINF:-1,Comedy Central SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83539
-
 #EXTINF:-1,Action Hollywood Movie 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1,Arte 1 SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/162558
-
-#EXTINF:-1,Canal Brasil SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/83532
 
 #EXTINF:-1,MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist288-p.m3u8
