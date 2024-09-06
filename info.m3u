@@ -12,9 +12,6 @@ https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:-1,MITV
 https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
-#EXTINF:-1,MAHAR MOVIE
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
-
 #EXTINF:-1,MSC Movie
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 
