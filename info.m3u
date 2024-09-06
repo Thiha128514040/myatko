@@ -96,32 +96,13 @@ http://217.20.112.199/suntv/index.m3u8
 #EXTINF:-1,Star vijay tv TAMIL
 http://217.20.112.199/vijaytv/index.m3u8
 
-#EXTINF:-1,Zee Tamil
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/Zeetamil1.m3u8
-
 #EXTINF:-1,Sun tv
 http://z88.ubtvfans.com/live/rx4/1458/f056c06fc30ee8927f9ad3ad1f2851ca/index.m3u8
 
-#EXTINF:-1,Star Vijay
-http://z88.ubtvfans.com/live/rx4/1459/e3a28deb3a7021e2641760c131f4e3f6/index.m3u8
-
 #EXTINF:-1,Thendral TV Tamil
 https://ipcloud.live/thendralmdu/thendral2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Zee Tamil (Astro MALAYSIA)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd?|drmScheme=clearkey&drmLicense=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
-
-#EXTINF:-1,Adithya TV (astro MALAYSIA)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd?|drmScheme=clearkey&drmLicense=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-
-#EXTINF:-1,Astro Vaanavil
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd?|drmScheme=clearkey&drmLicense=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
-
-#EXTINF:-1,Sun music
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd?|drmScheme=clearkey&drmLicense=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
-
-#EXTINF:-1,Astro வெள்ளித்திரை
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+10:667a33f4d5bb3587f2d5209886839eac
+0:5eb3762b1a4631a0b98e25e23cef0193
 
 #EXTINF:-1,Kalaingar Tv
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
@@ -134,9 +115,6 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 #EXTINF:-1,Murasu Tv
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-
-#EXTINF:-1,Southern tv
-https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
 
 #EXTINF:-1,EET TV tamil
 https://eu.streamjo.com/eetlive/eettv.m3u8
