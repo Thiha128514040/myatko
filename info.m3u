@@ -23,20 +23,6 @@ https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
 ===================================================
 
-#EXTINF:-1,TNT Sport
-https://redima.pro:8880/live/VALLE1402/VALLE1402/323.m3u8
-
-#EXTINF:-1,Astro_Sport HD 1
-http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
-
-#EXTINF:-1,Astro_Sport HD 2
-http://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
-
-==================================================
-
-
-==================================================
-
 #EXTINF:-1,***Inter Movie***
 http://lnc-cinevault-80s.tubi.video/1200.m3u8
 
@@ -49,35 +35,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,Action Hollywood Movie 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1,MyTime Movie Network
-https://mytime-tcl.amagi.tv/playlist288-p.m3u8
-
-#EXTINF:-1,STAR CHANNEL Movie
-http://50.7.137.106:8080/FOX/index.m3u8?token=test
-
 #EXTINF:-1,beIN Series Comedy
 http://supersonictv.live:8080/439090/246943/86269
-
-#EXTINF:-1,beIN Movies Family
-http://supersonictv.live:8080/439090/246943/86272
-
-#EXTINF:-1,beIN Movies  Premiere 1
-http://supersonictv.live:8080/439090/246943/86273
-
-#EXTINF:-1,beIN Movies Turk
-http://supersonictv.live:8080/439090/246943/86274
-
-#EXTINF:-1,beIN Movies Action
-http://supersonictv.live:8080/439090/246943/86276
-
-#EXTINF:-1,beIN Movies Premiere 3
-http://supersonictv.live:8080/439090/246943/86277
-
-#EXTINF:-1,beIN  MOVIE PREMIUM HD
-http://supersonictv.live:8080/439090/246943/86279
-
-#EXTINF:-1,beIN MOVIE Platin HD
-http://supersonictv.live:8080/439090/246943/86280
 
 #EXTINF:-1,beIN MOVIE Platin 2 HD
 http://supersonictv.live:8080/439090/246943/86281
