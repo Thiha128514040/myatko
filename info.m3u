@@ -23,6 +23,15 @@ https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
 ===================================================
 
+#EXTINF:-1,T sports
+http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
+
+#EXTINF:-1,RTA sports
+http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/45945.m3u8
+
+
+===================================================
+
 #EXTINF:-1,***Inter Movie***
 http://lnc-cinevault-80s.tubi.video/1200.m3u8
 
