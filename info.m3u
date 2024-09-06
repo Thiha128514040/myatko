@@ -1,0 +1,1015 @@
+#EXTM3U
+
+#EXTINF:-1,MK Home
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1,Chis Soung Nova SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/147457
+
+#EXTINF:-1,Channelk
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,MITV
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,MAHAR MOVIE
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,MSC Movie
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+
+#EXTINF:-1,MNTV Movie
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,MVM
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+
+#EXTINF:-1,Baby TV SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/147441?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,Cartoon Network SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83536
+
+#EXTINF:-1,Cartoonito SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83531
+
+#EXTINF:-1,Discovery Kids SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83543
+
+#EXTINF:-1,Disney Channel SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83545
+
+===================================================
+#EXTINF:-1,MK_Test 1
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1725638363-0-0-f758eb83bc6bffd80daed91cdeb2f5a7
+
+#EXTINF:-1,TNT Sport
+http://redima.pro:8880/live/VALLE1402/VALLE1402/323.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,Astro_Sport HD 1
+http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,Astro_Sport HD 2
+http://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,ESPN_SPORT 2 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83552?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,ESPN_SPORT 3 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83553?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,ESPN_SPIRT 4 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83560?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,ESPN_SPORT 5 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83561?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,ESPN_SPORT 6 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/162802?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,SporTV 1 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83623?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,SporTV 2 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83624?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,SporTV 3 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83625?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,Premiere 1 Clubes SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83601?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,BAND Sports SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83529?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,UFC Fight Pass SD [UFC TV]
+http://splaytv.club:80/xwgp5W/2g1Xr6/169515?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+#EXTINF:-1,Combate Fight SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83538?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODozOToyNCBQTSZoYXNoX3ZhbHVlPUNDSnpQS1gwRFVJdmZBNHY5QXNFMVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
+
+==================================================
+
+#EXTINF:-1,Canal do Boi SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83533
+
+#EXTINF:-1,CONMEBOL Paramount+ 1 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/122541
+
+#EXTINF:-1,Curta! SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83540
+
+#EXTINF:-1,Discovery Channel SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83541
+
+#EXTINF:-1,Discovery Home & Health SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83542
+
+#EXTINF:-1,Discovery ID SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83578
+
+#EXTINF:-1,Discovery Science SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/162807
+
+#EXTINF:-1,Discovery Theater SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/162806
+
+#EXTINF:-1,Discovery Turbo SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83544
+
+#EXTINF:-1,Fashion TV SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/162801
+
+#EXTINF:-1,Film & Arts SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83646
+
+#EXTINF:-1,Fish TV SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83556
+
+#EXTINF:-1,Food Network SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83557
+
+#EXTINF:-1,GB Araxá MG SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/162708
+
+#EXTINF:-1,GB Bahia Salvador SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83644
+
+#EXTINF:-1,GB Brasilia SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83564
+
+#EXTINF:-1,GB EPTV Central Sao Carlos SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83549
+
+==================================================
+
+#EXTINF:-1,***Inter Movie***
+http://lnc-cinevault-80s.tubi.video/1200.m3u8
+
+
+#EXTINF:-1,TNT_MOVIE SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83638
+
+#EXTINF:-1,AXN SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83524
+
+#EXTINF:-1,Cinemax SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83537
+
+#EXTINF:-1,Paramount Channel SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83597
+
+#EXTINF:-1,FX SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83563
+
+#EXTINF:-1,Movies Action
+http://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/high.m3u8
+
+#EXTINF:-1,Sony Movie
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1,Canal Sony SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83534
+
+#EXTINF:-1,Comedy Central SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83539
+
+#EXTINF:-1,Action Hollywood Movie 
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1,Arte 1 SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/162558
+
+#EXTINF:-1,Canal Brasil SD
+http://splaytv.club:80/xwgp5W/2g1Xr6/83532
+
+#EXTINF:-1,MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist288-p.m3u8
+
+#EXTINF:-1,STAR CHANNEL Movie
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+
+#EXTINF:-1,beIN Series Comedy
+http://supersonictv.live:8080/439090/246943/86269
+
+#EXTINF:-1,beIN Movies Family
+http://supersonictv.live:8080/439090/246943/86272
+
+#EXTINF:-1,beIN Movies  Premiere 1
+http://supersonictv.live:8080/439090/246943/86273
+
+#EXTINF:-1,beIN Movies Turk
+http://supersonictv.live:8080/439090/246943/86274
+
+#EXTINF:-1,beIN Movies Action
+http://supersonictv.live:8080/439090/246943/86276
+
+#EXTINF:-1,beIN Movies Premiere 3
+http://supersonictv.live:8080/439090/246943/86277
+
+#EXTINF:-1,beIN  MOVIE PREMIUM HD
+http://supersonictv.live:8080/439090/246943/86279
+
+#EXTINF:-1,beIN MOVIE Platin HD
+http://supersonictv.live:8080/439090/246943/86280
+
+#EXTINF:-1,beIN MOVIE Platin 2 HD
+http://supersonictv.live:8080/439090/246943/86281
+
+#EXTINF:-1,beIN MOVIE Family HD
+http://supersonictv.live:8080/439090/246943/86282
+
+#EXTINF:-1,beIN SMART TURK HD
+http://supersonictv.live:8080/439090/246943/86283
+
+#EXTINF:-1,DiZi SMART MAX HD
+http://supersonictv.live:8080/439090/246943/86285
+
+#EXTINF:-1,SINEMAX WESTERN
+http://supersonictv.live:8080/439090/246943/86286
+
+#EXTINF:-1,SiNEMA TV HD
+http://supersonictv.live:8080/439090/246943/86287
+
+#EXTINF:-1,SiNEMA TV AiLE HD
+http://supersonictv.live:8080/439090/246943/86289
+
+#EXTINF:-1,SiNEMA TV 1001 HD
+http://supersonictv.live:8080/439090/246943/86291
+
+#EXTINF:-1,beIN MOVIE PREMIUM 2 HD
+http://supersonictv.live:8080/439090/246943/86295
+
+#EXTINF:-1,USA A&E UHD
+http://supersonictv.live:8080/439090/246943/22040
+
+#EXTINF:-1,USA ABC WPLG UHD
+http://supersonictv.live:8080/439090/246943/22041
+
+#EXTINF:-1,USA AMC UHD
+http://supersonictv.live:8080/439090/246943/22042
+
+#EXTINF:-1,USA Cartoon
+http://supersonictv.live:8080/439090/246943/22043
+
+#EXTINF:-1,USA American Heroes
+http://supersonictv.live:8080/439090/246943/22044
+
+#EXTINF:-1,USA Animal Planet East UHD
+http://supersonictv.live:8080/439090/246943/22045
+
+#EXTINF:-1,USA Animal Planet West LHD
+http://supersonictv.live:8080/439090/246943/22046
+
+#EXTINF:-1,USA Aspire
+http://supersonictv.live:8080/439090/246943/22048
+
+#EXTINF:-1,USA AWE
+http://supersonictv.live:8080/439090/246943/22049
+
+#EXTINF:-1,USA AXS TV
+http://supersonictv.live:8080/439090/246943/22050
+
+#EXTINF:-1,USA Cooking Channel
+http://supersonictv.live:8080/439090/246943/22067
+
+#EXTINF:-1,USA COURT TV
+http://supersonictv.live:8080/439090/246943/22068
+
+#EXTINF:-1,USA: COWBOY CHANNELMENT
+http://supersonictv.live:8080/439090/246943/22069
+
+#EXTINF:-1,USA COZI TV LHD
+http://supersonictv.live:8080/439090/246943/22070
+
+#EXTINF:-1,USA Crime & Investigation
+http://supersonictv.live:8080/439090/246943/22071
+
+#EXTINF:-1,USA Destination America UHD
+http://supersonictv.live:8080/439090/246943/22073
+
+#EXTINF:-1,USA Discovery Channel UHD
+http://supersonictv.live:8080/439090/246943/22074
+
+#EXTINF:-1,USA Discovery Life UHD
+http://supersonictv.live:8080/439090/246943/22075
+
+#EXTINF:-1USA Discovery Family
+http://supersonictv.live:8080/439090/246943/22076
+
+#EXTINF:-1,USA Discovery Science
+http://supersonictv.live:8080/439090/246943/22077
+
+#EXTINF:-1,USA Discovery West LHD
+http://supersonictv.live:8080/439090/246943/22079
+
+#EXTINF:-1,USA DIY Network UHD
+http://supersonictv.live:8080/439090/246943/22080
+
+#EXTINF:-1,USA East UHD
+http://supersonictv.live:8080/439090/246943/22081
+
+#EXTINF:-1,USA Food Network East LHD
+http://supersonictv.live:8080/439090/246943/22084
+
+#EXTINF:-1,USA Food Network West LHD
+http://supersonictv.live:8080/439090/246943/22085
+
+#EXTINF:-1,USA Fox UHD
+http://supersonictv.live:8080/439090/246943/22086
+
+#EXTINF:-1,USA Fox Life Latin
+http://supersonictv.live:8080/439090/246943/22087
+
+#EXTINF:-1,USA FX East UHD
+http://supersonictv.live:8080/439090/246943/22091
+
+#EXTINF:-1,USA FX West LHD
+http://supersonictv.live:8080/439090/246943/22092
+
+#EXTINF:-1,Discovery Science
+http://supersonictv.live:8080/439090/246943/83905
+
+#EXTINF:-1,Disney Channel
+http://supersonictv.live:8080/439090/246943/83906
+
+#EXTINF:-1,Disney Jr
+http://supersonictv.live:8080/439090/246943/83907
+
+#EXTINF:-1,Discovery Channel FHD
+http://supersonictv.live:8080/439090/246943/84966
+
+#EXTINF:-1,Discovery Home & Health FHD
+http://supersonictv.live:8080/439090/246943/84967
+
+#EXTINF:-1,Discovery ID FHD
+http://supersonictv.live:8080/439090/246943/84968
+
+#EXTINF:-1,Discovery Science FHD
+http://supersonictv.live:8080/439090/246943/84970
+
+#EXTINF:-1,Discovery Theather FHD
+http://supersonictv.live:8080/439090/246943/84971
+
+#EXTINF:-1,Discovery Turbo FHD
+http://supersonictv.live:8080/439090/246943/84972
+
+#EXTINF:-1,HBO
+http://iptvtree.net:8080/F19406/e4fccd99/26155
+
+#EXTINF:-1,HBO 2
+http://iptvtree.net:8080/F19406/e4fccd99/26161
+
+#EXTINF:-1,HBO 3
+http://iptvtree.net:8080/F19406/e4fccd99/26156
+
+==================================================
+
+#EXTINF:-1,TheRoundup
+http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
+
+#EXTINF:-1,ThorGodofThunder2022
+http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
+
+#EXTINF:-1,DoctorStrange
+http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
+
+#EXTINF:-1,Interceptor
+http://www.zegomovie.com/Videos/Interceptor/index.m3u8
+
+#EXTINF:-1,Major2022
+http://www.zegomovie.com/Videos/Major/index.m3u8
+
+#EXTINF:-1,Jurassic World2022
+http://www.zegomovie.com/Videos/JurassicWorldDominion/index.m3u8
+
+#EXTINF:-1,BlowBlack2022
+http://www.zegomovie.com/Videos/Blowback/index.m3u8
+
+#EXTINF:-1,IronCross TheRoadNormandy2022
+http://www.zegomovie.com/Videos/IronCrossTheRoadtoNormandy/index.m3u8
+
+#EXTINF:-1,Beast2022
+http://www.zegomovie.com/Videos/Beast2022/index.m3u8
+
+#EXTINF:-1,9Bullets
+http://www.zegomovie.com/Videos/9Bullets/index.m3u8
+
+#EXTINF:-1,Ghani2022
+http://www.zegomovie.com/Videos/Ghani/index.m3u8
+
+#EXTINF:-1,TheVault2021
+http://www.zegomovie.com/Videos/TheVault/index.m3u8
+
+#EXTINF:-1,TheLostCity
+http://www.zegomovie.com/Videos/TheLostCity/index.m3u8
+
+#EXTINF:-1,Uncharted
+http://www.zegomovie.com/Videos/Uncharted/index.m3u8
+
+#EXTINF:-1,OhMyDog
+http://www.zegomovie.com/Videos/OhMyDog/index.m3u8
+
+#EXTINF:-1,EtharkkumThunindhavan
+http://www.zegomovie.com/Videos/EtharkkumThunindhavan/index.m3u8
+
+#EXTINF:-1,SuperMachi
+http://www.zegomovie.com/Videos/SuperMachi/index.m3u8
+
+#EXTINF:-1,Morbius
+http://www.zegomovie.com/Videos/Morbius/index.m3u8
+
+#EXTINF:-1,Restless
+http://www.zegomovie.com/Videos/Restless/index.m3u8
+
+#EXTINF:-1,AnotherMe
+http://www.zegomovie.com/Videos/AnotherMe/index.m3u8
+
+#EXTINF:-1,AManCalledHero
+http://www.zegomovie.com/Videos/AManCalledHero/index.m3u8
+
+#EXTINF:-1,GasolineAlley
+http://www.zegomovie.com/Videos/GasolineAlley/index.m3u8
+
+#EXTINF:-1,ProjectGemini
+http://www.zegomovie.com/Videos/ProjectGemini/index.m3u8
+
+#EXTINF:-1,Vesper2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Vesper(2022)(720p)/7PgKDNk5czbZT6ACIM0a.m3u8
+
+#EXTINF:-1,Hunt2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Hunt2022(480p)/EflpBnk8RXdbrG0wCZ9e.m3u8
+
+#EXTINF:-1,BulletTrain2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/BulletTrain(2022)(480p)/HYO3P9nk1hbvxg7MwipZ.m3u8
+
+#EXTINF:-1,Poikkalkuthirai
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/PoikkalKuthirai(2022)(480p)/AvDcFpybNZUl18oMxTnO.m3u8
+
+#EXTINF:-1,PonManickavel 
+http://www.zegomovie.com/Videos/PonManickavel/index.m3u8
+
+#EXTINF:-1,ArmyofThieves2021
+http://www.zegomovie.com/Videos/ArmyofThieves/index.m3u8
+
+#EXTINF:-1,QueensReturn2021
+http://www.zegomovie.com/Videos/QueensReturn/index.m3u8
+
+#EXTINF:-1,Rudra Thandavam2021
+http://www.zegomovie.com/Videos/RudraThandavam/index.m3u8
+
+#EXTINF:-1,TheEast2021
+http://www.zegomovie.com/Videos/TheEast/index.m3u8
+
+#EXTINF:-1,SpiderManNoWayHome2021
+http://www.zegomovie.com/Videos/SpiderManNoWayHome/index.m3u8
+
+#EXTINF:-1,HomeSweetHome2021
+http://www.zegomovie.com/Videos/HomeSweetHome/index.m3u8
+
+#EXTINF:-1,NightRaiders2021
+http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
+
+#EXTINF:-1,RedNotice2021
+http://www.zegomovie.com/Videos/RedNotice/index.m3u8
+
+#EXTINF:-1,No Time to Die 2021
+http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
+
+#EXTINF:-1,Venom2
+http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
+
+#EXTINF:-1,RgingFire2021
+http://www.zegomovie.com:80/Videos/RagingFire/index.m3u8
+
+#EXTINF:-1,Flight2021
+http://www.zegomovie.com:80/Videos/Flight/index.m3u8
+
+#EXTINF:-1,ShowMetheGhost
+http://www.zegomovie.com:80/Videos/ShowMetheGhost/index.m3u8
+
+#EXTINF:-1,TheStronghold2021
+http://www.zegomovie.com:80/Videos/TheStronghold/index.m3u8
+
+#EXTINF:-1,FREE GUY 2021
+http://www.zegomovie.com:80/Videos/FreeGuy/index.m3u8
+
+#EXTINF:-1,BellBottom2021
+http://www.zegomovie.com:80/Videos/BellBottom/index.m3u8
+
+#EXTINF:-1,BreakThrough2021
+http://www.zegomovie.com:80/Videos/BreakThrough/index.m3u8
+
+#EXTINF:-1,The Medium2021
+http://www.zegomovie.com:80/Videos/TheMedium/index.m3u8
+
+#EXTINF:-1,Kaadan2021
+http://www.zegomovie.com:80/Videos/Kaadan/index.m3u8
+
+#EXTINF:-1,SINK HOLE 2021
+http://www.zegomovie.com/Videos/Sinkhole/index.m3u8
+
+#EXTINF:-1,TheCardCounter2021
+http://www.zegomovie.com/Videos/TheCardCounter/index.m3u8
+
+#EXTINF:-1,NIGHT BOOK2021
+http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
+
+#EXTINF:-1,PawPatrol2021
+http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
+
+#EXTINF:-1,The Protege2021
+http://www.zegomovie.com/Videos/TheProtege/index.m3u8
+
+#EXTINF:-1,The Rebal of PT218
+http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
+
+#EXTINF:-1,Sherni 2021
+http://www.zegomovie.com/Videos/Sherni/index.m3u8
+
+#EXTINF:-1,BhootPoolice2021
+http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
+
+#EXTINF:-1,TuckJagadish2021
+http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
+
+#EXTINF:-1,Kate2022
+http://www.zegomovie.com/Videos/Kate/index.m3u8
+
+#EXTINF:-1,Pele2021
+http://www.zegomovie.com/Videos/Pele/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES2
+http://www.zegomovie.com/Videos/HereandThere/index.m3u8
+
+#EXTINF:-1,MMSUBMOVIES1
+http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
+
+#EXTINF:-1,Extraction
+http://www.zegomovie.com/Videos/Extraction/index.m3u8
+
+#EXTINF:-1,Terminator
+http://www.zegomovie.com/Videos/TerminatorDarkFate/index.m3u8
+
+#EXTINF:-1,Secrets
+http://www.zegomovie.com/Videos/SecretsAtTheMuseum23/index.m3u8
+
+#EXTINF:-1,Always i am
+http://www.zegomovie.com/Videos/AlwaysIAm23/index.m3u8
+
+#EXTINF:-1,BloodLust
+http://www.zegomovie.com/Videos/BloodlustSubspeciesIII94/index.m3u8
+
+#EXTINF:-1,Civilwar
+http://www.zegomovie.com/Videos/CivilWar24/index.m3u8
+
+#EXTINF:-1,Fighter
+http://www.zegomovie.com/Videos/Fighter24/index.m3u8
+
+#EXTINF:-1,105Minuttess
+http://www.zegomovie.com/Videos/105Minuttess24/index.m3u8
+
+#EXTINF:-1,Johnwick Chapter4
+http://www.zegomovie.com/Videos/JohnWickChapter4/index.m3u8
+
+#EXTINF:-1,RingOfDesire
+http://www.zegomovie.com/Videos/RingOfDesire21/index.m3u8
+
+#EXTINF:-1,RagingFlower2
+http://www.zegomovie.com/Videos/RagingFlower2/index.m3u8
+
+#EXTINF:-1,Moloch
+http://www.zegomovie.com/Videos/Moloch/index.m3u8
+
+#EXTINF:-1,Primal10
+http://www.zegomovie.com/Videos/Primal10/index.m3u8
+
+#EXTINF:-1,ThePrinceTheWitch
+http://www.zegomovie.com/Videos/ThePrinceTheWitchandTheMermaid02/index.m3u8
+
+#EXTINF:-1,EndOfTheWorld
+http://www.zegomovie.com/Videos/EndOfTheWorld18/index.m3u8
+
+#EXTINF:-1,ShaadiXchangeMixUp
+http://www.zegomovie.com/Videos/ShaadiXchangeMixUp24/index.m3u8
+
+#EXTINF:-1,ReasonableDoubt
+http://www.zegomovie.com/Videos/ReasonableDoubt14/index.m3u8
+
+#EXTINF:-1,Getaway
+http://www.zegomovie.com/Videos/Getaway13/index.m3u8
+
+#EXTINF:-1,TigerHouse
+http://www.zegomovie.com/Videos/TigerHouse15/index.m3u8
+
+#EXTINF:-1,AmericanFactory
+http://www.zegomovie.com/Videos/AmericanFactory19/index.m3u8
+
+#EXTINF:-1,Getaway
+http://www.zegomovie.com/Videos/Getaway13/index.m3u8
+
+#EXTINF:-1,YoureKillingMe
+http://www.zegomovie.com/Videos/YoureKillingMe23/index.m3u8
+
+#EXTINF:-1,WORLDWARZ
+http://www.zegomovie.com/Videos/WORLDWARZ/index.m3u8
+
+#EXTINF:-1,Underwater
+http://www.zegomovie.com/Videos/Underwater/index.m3u8
+
+#EXTINF:-1,TheTomorrowWar
+http://www.zegomovie.com/Videos/TheTomorrowWar/index.m3u8
+
+#EXTINF:-1,Atlas
+http://www.zegomovie.com/Videos/Atlas172/index.m3u8
+
+#EXTINF:-1,TatsamaTadbhava
+http://www.zegomovie.com/Videos/TatsamaTadbhava24/index.m3u8
+
+#EXTINF:-1,HitmansWifesBodyguard
+http://www.zegomovie.com/Videos/HitmansWifesBodyguard/index.m3u8
+
+#EXTINF:-1,ActionJackson
+http://www.zegomovie.com/Videos/ActionJackson/index.m3u8
+
+#EXTINF:-1,Extraction2
+http://www.zegomovie.com/Videos/Extraction2/index.m3u8
+
+#EXTINF:-1,TheGirlintheSpidersWeb
+http://www.zegomovie.com/Videos/TheGirlintheSpidersWeb18/index.m3u8
+
+#EXTINF:-1,PreciousCargo
+http://www.zegomovie.com/Videos/PreciousCargo16/index.m3u8
+
+#EXTINF:-1,RiseoftheLegend
+http://www.zegomovie.com/Videos/RiseoftheLegend14/index.m3u8
+
+#EXTINF:-1,TheVictims
+http://www.zegomovie.com/Videos/TheVictims24/index.m3u8
+
+#EXTINF:-1,ExtremeSpeedPolice
+http://www.zegomovie.com/Videos/ExtremeSpeedPoliceTheWaronDrugs24/index.m3u8
+
+#EXTINF:-1,TheMarksman
+http://www.zegomovie.com/Videos/TheMarksman/index.m3u8
+
+#EXTINF:-1,Crew
+http://www.zegomovie.com/Videos/Crew24/index.m3u8
+
+#EXTINF:-1,World Warz
+http://www.zegomovie.com/Videos/WORLDWARZ/index.m3u8
+
+#EXTINF:-1,65MM sab
+http://www.zegomovie.com/Videos/652023/index.m3u8
+
+#EXTINF:-1,DieHard 2
+http://www.zegomovie.com/Videos/DieHard2/index.m3u8
+
+#EXTINF:-1,DieHard 5
+http://www.zegomovie.com/Videos/DieHard5/index.m3u8
+
+#EXTINF:-1,DieHard the Movie1
+http://www.zegomovie.com/Videos/DieHart/index.m3u8
+
+#EXTINF:-1,Exit
+http://www.zegomovie.com/Videos/Exit/index.m3u8
+
+#EXTINF:-1,TombRaider
+http://www.zegomovie.com/Videos/TombRaider/index.m3u8
+
+#EXTINF:-1,6HoursAway
+http://www.zegomovie.com/Videos/6HoursAway24/index.m3u8
+
+#EXTINF:-1,Incantation
+http://www.zegomovie.com/Videos/Incantation/index.m3u8
+
+#EXTINF:-1,TheBFG
+http://www.zegomovie.com/Videos/TheBFG/index.m3u8
+
+#EXTINF:-1,Anveshi
+http://www.zegomovie.com/Videos/Anveshi23/index.m3u8
+
+#EXTINF:-1,BadeMiyanChoteMiyan
+http://www.zegomovie.com/Videos/BadeMiyanChoteMiyan180/index.m3u8
+
+#EXTINF:-1,United93
+http://www.zegomovie.com/Videos/United93/index.m3u8
+
+#EXTINF:-1,OperationFortune
+http://www.zegomovie.com/Videos/OperationFortune/index.m3u8
+
+#EXTINF:-1,Atlas movie
+http://www.zegomovie.com/Videos/Atlas172/index.m3u8
+
+#EXTINF:-1,Gold
+http://www.zegomovie.com/Videos/Gold/index.m3u8
+
+#EXTINF:-1,Mutant
+http://www.zegomovie.com/Videos/Mutant24/index.m3u8
+
+#EXTINF:-1,TheRaid
+http://www.zegomovie.com/Videos/TheRaidRedemption/index.m3u8
+
+#EXTINF:-1,TheWhiteRaven
+http://www.zegomovie.com/Videos/SniperTheWhiteRaven/index.m3u8
+
+#EXTINF:-1,Desperate Sniper
+http://www.zegomovie.com/Videos/DesperateSniper24/index.m3u8
+
+#EXTINF:-1,ThePointMen
+http://www.zegomovie.com/Videos/ThePointMen/index.m3u8
+
+#EXTINF:-1,Oblivion
+http://www.zegomovie.com/Videos/Oblivion/index.m3u8
+
+#EXTINF:-1,LandOfBad
+http://www.zegomovie.com/Videos/LandOfBad24/index.m3u8
+
+#EXTINF:-1,Dead Reckoning Part One
+http://www.zegomovie.com/Videos/MissionImpossibleD23/index.m3u8
+
+#EXTINF:-1,R-Point
+http://www.zegomovie.com/Videos/R-Point/index.m3u8
+
+#EXTINF:-1,The King of Snipers
+http://www.zegomovie.com/Videos/KingOfSnipers/index.m3u8
+
+#EXTINF:-1,Yodha
+http://www.zegomovie.com/Videos/Yodha24/index.m3u8
+
+#EXTINF:-1,IslandEscape
+http://www.zegomovie.com/Videos/IslandEscape23/index.m3u8
+
+#EXTINF:-1,TheStar
+http://www.zegomovie.com/Videos/TheStar02/index.m3u8
+
+#EXTINF:-1,Escape from Pretoria
+http://www.zegomovie.com/Videos/EscapeFromPretoria/index.m3u8
+
+#EXTINF:-1,Sully
+http://www.zegomovie.com/Videos/Sully16/index.m3u8
+
+#EXTINF:-1,The Admiral
+http://www.zegomovie.com/Videos/TheAdmiralRoaringCurrents/index.m3u8
+
+#EXTINF:-1,Army of One
+http://www.zegomovie.com/Videos/ArmyofOne/index.m3u8
+
+#EXTINF:-1,JohnCarter
+http://www.zegomovie.com/Videos/JohnCarter/index.m3u8
+
+#EXTINF:-1,Mine
+http://www.zegomovie.com/Videos/Mine/index.m3u8
+
+#EXTINF:-1,ThreeKings
+http://www.zegomovie.com/Videos/ThreeKings/index.m3u8
+
+#EXTINF:-1,TheSecret Kingdom
+http://www.zegomovie.com/Videos/TheSecretKingdom23/index.m3u8
+
+#EXTINF:-1,TheBeekeeper
+http://www.zegomovie.com/Videos/TheBeekeeper24/index.m3u8
+
+#EXTINF:-1,Crank
+http://www.zegomovie.com/Videos/Crank/index.m3u8
+
+#EXTINF:-1,Sold
+http://www.zegomovie.com/Videos/Sold/index.m3u8
+
+#EXTINF:-1,Hovering Blade
+http://www.zegomovie.com/Videos/HoveringBlade24/index.m3u8
+
+#EXTINF:-1,Planetof the Apes
+http://www.zegomovie.com/Videos/RiseofthePlanetoftheApes/index.m3u8
+
+#EXTINF:-1,Jungle Chase
+http://www.zegomovie.com/Videos/JungleChase24/index.m3u8
+
+#EXTINF:-1,Chupa
+http://www.zegomovie.com/Videos/Chupa/index.m3u8
+
+#EXTINF:-1,TheExtraordinary
+http://www.zegomovie.com/Videos/TheExtraordinaryAdventuresOfAdeleBlancSec/index.m3u8
+
+#EXTINF:-1,Mad Max1
+http://www.zegomovie.com/Videos/MadMax79/index.m3u8
+
+#EXTINF:-1,Mad Max2
+http://www.zegomovie.com/Videos/MadMax2TheRoadWarrior/index.m3u8
+
+#EXTINF:-1,MadMax FruyRoad
+http://www.zegomovie.com/Videos/MadMaxFruyRoad/index.m3u8
+
+#EXTINF:-1,MadMax Beyond
+http://www.zegomovie.com/Videos/MadMaxBeyondThunderdome85/index.m3u8
+
+#EXTINF:-1,Code 8
+http://www.zegomovie.com/Videos/Code8/index.m3u8
+
+#EXTINF:-1,Eternal Code
+http://www.zegomovie.com/Videos/EternalCode/index.m3u8
+
+
+#EXTINF:-1,Shutter Island
+http://www.zegomovie.com/Videos/ShutterIsland/index.m3u8
+
+
+#EXTINF:-1,The Raid2
+http://www.zegomovie.com/Videos/TheRaid2/index.m3u8
+
+#EXTINF:-1,IF
+http://www.zegomovie.com/Videos/IF24/index.m3u8
+
+#EXTINF:-1,The Captives
+http://www.zegomovie.com/Videos/TheCaptives24/index.m3u8
+
+#EXTINF:-1,LazyHazyCrazy
+http://www.zegomovie.com/Videos/LazyHazyCrazy/index.m3u8
+
+#EXTINF:-1,Naked Weapon
+http://www.zegomovie.com/Videos/NakedWeapon/index.m3u8
+
+#EXTINF:-1,Patient Zero
+http://www.zegomovie.com/Videos/PatientZero/index.m3u8
+
+#EXTINF:-1,Ballerina
+http://www.zegomovie.com/Videos/Ballerina23/index.m3u8
+
+#EXTINF:-1,Black Noise
+http://www.zegomovie.com/Videos/BlackNoise23/index.m3u8
+
+#EXTINF:-1,Centurion
+http://www.zegomovie.com/Videos/Centurion/index.m3u8
+
+#EXTINF:-1,Elysium
+http://www.zegomovie.com/Videos/Elysium/index.m3u8
+
+#EXTINF:-1,Mile 22
+http://www.zegomovie.com/Videos/Mile22/index.m3u8
+
+#EXTINF:-1,Heroic
+http://www.zegomovie.com/Videos/Heroic23/index.m3u8
+
+#EXTINF:-1,Unknown Soldier
+http://www.zegomovie.com/Videos/UnknownSoldier/index.m3u8
+
+#EXTINF:-1,Simon
+http://www.zegomovie.com/Videos/Simon23/index.m3u8
+
+#EXTINF:-1,THEMECHANIC
+http://www.zegomovie.com/Videos/THEMECHANIC/index.m3u8
+
+#EXTINF:-1,F9 TheFastSaga
+http://www.zegomovie.com/Videos/FastAndFuriousF9TheFastSaga/index.m3u8
+
+#EXTINF:-1,Jason bourne
+http://www.zegomovie.com/Videos/Jasonbourne/index.m3u8
+
+#EXTINF:-1,The Rookies
+http://www.zegomovie.com/Videos/TheRookies/index.m3u8
+
+#EXTINF:-1,Paskal TheMovie
+http://www.zegomovie.com/Videos/PaskalTheMovie/index.m3u8
+
+#EXTINF:-1,IndianaJone
+http://www.zegomovie.com/Videos/IndianaJonesandtheDialofDestiny23/index.m3u8
+
+#EXTINF:-1,Fast X
+http://www.zegomovie.com/Videos/Fast%20X%20(10)/index.m3u8
+
+#EXTINF:-1,Crazy Love
+http://www.zegomovie.com/Videos/CrazyLove/index.m3u8
+
+#EXTINF:-1,ADogNamed Palma
+http://www.zegomovie.com/Videos/ADogNamedPalma/index.m3u8
+
+#EXTINF:-1,Black Sheep
+http://www.zegomovie.com/Videos/BlackSheep06/index.m3u8
+
+#EXTINF:-1,SavingPrivate Ryan
+http://www.zegomovie.com/Videos/SavingPrivateRyan/index.m3u8
+
+#EXTINF:-1,Lonesurvivor
+http://www.zegomovie.com/Videos/Lonesurvivor/index.m3u8
+
+#EXTINF:-1,Venom 1
+http://www.zegomovie.com/Videos/Venom/index.m3u8
+
+#EXTINF:-1,Venom 2
+http://www.zegomovie.com/Videos/Venom2/index.m3u8
+
+#EXTINF:-1,Venom 3
+http://www.zegomovie.com/Videos/MedusasVenom23/index.m3u8
+
+#EXTINF:-1,Venom 4
+http://www.zegomovie.com/Videos/TheFiveVenoms78/index.m3u8
+
+#EXTINF:-1,Venom 5
+http://www.zegomovie.com/Videos/Venom05/index.m3u8
+
+#EXTINF:-1,Fantastic Beasts 1
+http://www.zegomovie.com/Videos/FantasticBeastsAndWhereToFindThem/index.m3u8
+
+#EXTINF:-1,Fantastic Beasts 2
+http://www.zegomovie.com/Videos/FantasticBeastsTheSecretsofDumbledore/index.m3u8
+
+#EXTINF:-1,TheMisfits
+http://www.zegomovie.com/Videos/TheMisfits/index.m3u8
+
+#EXTINF:-1,War Craft
+http://www.zegomovie.com/Videos/Warcraft/index.m3u8
+
+#EXTINF:-1,Congo
+http://www.zegomovie.com/Videos/Congo/index.m3u8
+
+#EXTINF:-1,TheLost City of Z
+http://www.zegomovie.com/Videos/TheLostCityofZ/index.m3u8
+
+#EXTINF:-1,Lost in Thailand
+http://www.zegomovie.com/Videos/LostinThailand/index.m3u8
+
+#EXTINF:-1,Badland Hunters
+http://www.zegomovie.com/Videos/BadlandHunters24/index.m3u8
+
+#EXTINF:-1,BobaFett Ep1
+http://www.zegomovie.com/Videos/BookOfBobaFettEp1/index.m3u8
+
+#EXTINF:-1,BobaFett Ep2
+http://www.zegomovie.com/Videos/BookOfBobaFettEp2/index.m3u8
+
+#EXTINF:-1,BobaFett Ep3
+http://www.zegomovie.com/Videos/BookOfBobaFettEp3/index.m3u8
+
+#EXTINF:-1,BobaFett Ep4
+http://www.zegomovie.com/Videos/BookOfBobaFettEp4/index.m3u8
+
+#EXTINF:-1,BobaFett Ep5
+http://www.zegomovie.com/Videos/BookOfBobaFettEp5/index.m3u8
+
+#EXTINF:-1,BobaFett Ep6
+http://www.zegomovie.com/Videos/BookOfBobaFettEp6/index.m3u8
+
+#EXTINF:-1,BobaFett Ep7
+http://www.zegomovie.com/Videos/BookOfBobaFettEp7/index.m3u8
+
+#EXTINF:-1,Revolver 05
+http://www.zegomovie.com/Videos/Revolver05/index.m3u8
+
+#EXTINF:-1,HowtoHave
+http://www.zegomovie.com/Videos/HowtoHaveSex23/index.m3u8
+
+#EXTINF:-1,BothSides
+http://www.zegomovie.com/Videos/BothSidesOfTheBlade22/index.m3u8
+
+#EXTINF:-1,Encounter Love
+http://www.zegomovie.com/Videos/EncounterLove24/index.m3u8
+
+#EXTINF:-1,Love,Sex LSD2
+http://www.zegomovie.com/Videos/LSD2LoveAurDhokha24/index.m3u8
+
+#EXTINF:-1,Wrath of Man
+http://www.zegomovie.com/Videos/WrathofMan/index.m3u8
+
+#EXTINF:-1,The Ghoul
+http://www.zegomovie.com/Videos/TheGhoulHorrorAtTheHowlingField/index.m3u8
+
+#EXTINF:-1,Napoleon
+http://www.zegomovie.com/Videos/Napoleon23/index.m3u8
+
+#EXTINF:-1,Das Boot U571
+http://www.zegomovie.com/Videos/DasBoot/index.m3u8
+
+#EXTINF:-1,Watch Marakkar
+http://www.zegomovie.com/Videos/MarakkarLionoftheArabianSea/index.m3u8
+
+#EXTINF:-1,The Battle
+http://www.zegomovie.com/Videos/TheBattleRoartoVictory/index.m3u8
+
+#EXTINF:-1,Legion 1
+http://www.zegomovie.com/Videos/Legion/index.m3u8
+
+#EXTINF:-1,Legion 2
+http://www.zegomovie.com/Videos/TheLegion20/index.m3u8
+
+#EXTINF:-1,Legion 3
+http://www.zegomovie.com/Videos/Legions/index.m3u8
+
+#EXTINF:-1,Legion Esp1
+http://www.zegomovie.com/Videos/LegionS1Ep1/index.m3u8
+
+#EXTINF:-1,The Lest Legion
+http://www.zegomovie.com/Videos/TheLastLegion07/index.m3u8
+
+#EXTINF:-1,TheActic Convoy
+http://www.zegomovie.com/Videos/TheArcticConvoy23/index.m3u8
+
+#EXTINF:-1,TheWicked Wife
+http://www.zegomovie.com/Videos/TheWickedWife/index.m3u8
+
+#EXTINF:-1,Handsome Guys
+http://www.zegomovie.com/Videos/HandsomeGuys24/index.m3u8
+
+#EXTINF:-1,The Purates
+http://www.zegomovie.com/Videos/ThePiratesTheLastRoyalTreasure/index.m3u8
+
+#EXTINF:-1,Comingsoon_New Movie & Sport
