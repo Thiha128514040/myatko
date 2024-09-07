@@ -31,32 +31,20 @@ http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
 #EXTINF:-1,***Inter Movie***
 http://lnc-cinevault-80s.tubi.video/1200.m3u8
 
-#EXTINF:-1,Movies Action
-http://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/high.m3u8
-
 #EXTINF:-1,Sony Movie
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1,Action Hollywood Movie 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:-1,USA East UHD
+http://supersonictv.live:8080/439090/246943/22081
+
 #EXTINF:-1,beIN Series Comedy
 http://supersonictv.live:8080/439090/246943/86269
 
 #EXTINF:-1,beIN MOVIE Platin 2 HD
 http://supersonictv.live:8080/439090/246943/86281
-
-#EXTINF:-1,beIN MOVIE Family HD
-http://supersonictv.live:8080/439090/246943/86282
-
-#EXTINF:-1,SINEMAX WESTERN
-http://supersonictv.live:8080/439090/246943/86286
-
-#EXTINF:-1,beIN MOVIE PREMIUM 2 HD
-http://supersonictv.live:8080/439090/246943/86295
-
-#EXTINF:-1,USA AMC UHD
-http://supersonictv.live:8080/439090/246943/22042
 
 #EXTINF:-1,USA Cartoon
 http://supersonictv.live:8080/439090/246943/22043
@@ -67,32 +55,20 @@ http://supersonictv.live:8080/439090/246943/22045
 #EXTINF:-1,USA Animal Planet West LHD
 http://supersonictv.live:8080/439090/246943/22046
 
-#EXTINF:-1,USA Aspire
-http://supersonictv.live:8080/439090/246943/22048
-
 #EXTINF:-1,USA Cooking Channel
 http://supersonictv.live:8080/439090/246943/22067
 
 #EXTINF:-1,USA Discovery Science
 http://supersonictv.live:8080/439090/246943/22077
 
-#EXTINF:-1,USA East UHD
-http://supersonictv.live:8080/439090/246943/22081
-
 #EXTINF:-1,USA Food Network East LHD
 http://supersonictv.live:8080/439090/246943/22084
-
-#EXTINF:-1,HBO
-http://iptvtree.net:8080/F19406/e4fccd99/26155
 
 #EXTINF:-1,Sun tv TAMIL
 http://217.20.112.199/suntv/index.m3u8
 
 #EXTINF:-1,Star vijay tv TAMIL
 http://217.20.112.199/vijaytv/index.m3u8
-
-#EXTINF:-1,Sun tv
-http://z88.ubtvfans.com/live/rx4/1458/f056c06fc30ee8927f9ad3ad1f2851ca/index.m3u8
 
 #EXTINF:-1,Thendral TV Tamil
 https://ipcloud.live/thendralmdu/thendral2/tracks-v1a1/mono.m3u8
@@ -110,9 +86,6 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 #EXTINF:-1,Murasu Tv
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-
-#EXTINF:-1,EET TV tamil
-https://eu.streamjo.com/eetlive/eettv.m3u8
 
 ==================================================
 
