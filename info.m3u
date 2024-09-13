@@ -169,8 +169,29 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvjLGT8L81Go8NfKukLUgi4RSo0lwG1N4OSbE
 #EXTINF:-1,PARAMOUNT + 04
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoU2rlDUcbfEI_Bv_RbBmyoPGt7UnGvrquNHjjAlwu_X
 
-#EXTINF:-1,NBA Sport
+#EXTINF:-1,***24 Hours Sport***
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWcR2uUpruI9oLtMsBNLjG3O
+
+#EXTINF:-1,BEIN SPORT 1
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
+
+#EXTINF:-1,BEIN SPORT 2
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/902
+
+#EXTINF:-1,BEIN SPORT 3
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/903
+
+#EXTINF:-1,BEIN SPORT 4
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/904
+
+#EXTINF:-1,BEIN SPORT 5
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/905
+
+#EXTINF:-1,BEIN SPORT 6
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/906
+
+#EXTINF:-1,BEIN SPORT 7
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/907
 
 #EXTINF:-1,COMBATE  Sport
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWsXs-PsYjOq--1DM9Ov-o
@@ -317,6 +338,9 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvksHpMNWbmqqkPcFVwtislFY85zJsHtDwXbf
 
 #EXTINF:-1,***Inter Movie***
 http://lnc-cinevault-80s.tubi.video/1200.m3u8
+
+#EXTINF:-1,EVTV action movie
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/1011
 
 #EXTINF:-1,A&E action movie
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNNEoW99PZa80BhGA3xp5V1
