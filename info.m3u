@@ -3,9 +3,6 @@
 #EXTINF:-1,MK Home
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
-#EXTINF:-1,Chis Soung Nova SD
-http://splaytv.club:80/xwgp5W/2g1Xr6/147457
-
 #EXTINF:-1,Channelk
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
@@ -313,66 +310,136 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMmcCZYJJgZ7JVR
 #EXTINF:-1,ESPN_Sport 6
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNsxAxl5dBkoWryK0qbNDMg
 
+#EXTINF:-1,TNT_Sport
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvksHpMNWbmqqkPcFVwtislFY85zJsHtDwXbfT-NCC08-
+
 ===================================================
 
 #EXTINF:-1,***Inter Movie***
 http://lnc-cinevault-80s.tubi.video/1200.m3u8
 
-#EXTINF:-1,Sony Movie
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,A&E action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNNEoW99PZa80BhGA3xp5V1
 
-#EXTINF:-1,Action Hollywood Movie 
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,AMC action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMyI0ga9HDb1286SXnflDEQ
 
-#EXTINF:-1,USA East UHD
-http://supersonictv.live:8080/439090/246943/22081
+#EXTINF:-1,AXN action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPpSoCSXefX1LwjfKIL9j2C
 
-#EXTINF:-1,beIN Series Comedy
-http://supersonictv.live:8080/439090/246943/86269
+#EXTINF:-1,CINEMAX action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMEz-ktE4zq_jP4aowL4Oku
 
-#EXTINF:-1,beIN MOVIE Platin 2 HD
-http://supersonictv.live:8080/439090/246943/86281
+#EXTINF:-1,FX action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPd8ZxhL6ic1BTsKWWAenC6
 
-#EXTINF:-1,USA Cartoon
-http://supersonictv.live:8080/439090/246943/22043
+#EXTINF:-1,MAGAPIX action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvqXPofiLa0jp87RG3vuHnzen3Fa1oezpwU9zMjpiQDVt
 
-#EXTINF:-1,USA Animal Planet East UHD
-http://supersonictv.live:8080/439090/246943/22045
+#EXTINF:-1,SONY CHANNEL
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOce3ZxROHzbhhZLonAXSJo
 
-#EXTINF:-1,USA Animal Planet West LHD
-http://supersonictv.live:8080/439090/246943/22046
+#EXTINF:-1,SONY MOVIE
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvq4i4gRxSsVFoCl6P6qIZNJ-aY7gb9GmtU554K95RtEh
 
-#EXTINF:-1,USA Cooking Channel
-http://supersonictv.live:8080/439090/246943/22067
+#EXTINF:-1,SPACE action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMTIq59hnLzrdnx_eftCD4S
 
-#EXTINF:-1,USA Discovery Science
-http://supersonictv.live:8080/439090/246943/22077
+#EXTINF:-1,STAR CHANNEL movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNCrt4gY_Pd0OxZUhIEPvEh
 
-#EXTINF:-1,USA Food Network East LHD
-http://supersonictv.live:8080/439090/246943/22084
+#EXTINF:-1,TCM action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMdMoRvBsQ2QWKENA7kLc1V
 
-#EXTINF:-1,Sun tv TAMIL
-http://217.20.112.199/suntv/index.m3u8
+#EXTINF:-1,TNT movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN58E2yP_YilTCbva6jviOL
 
-#EXTINF:-1,Star vijay tv TAMIL
-http://217.20.112.199/vijaytv/index.m3u8
+#EXTINF:-1,TNT SERIES movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNVQekQ2OT14OFqJdb4jBGh
 
-#EXTINF:-1,Thendral TV Tamil
-https://ipcloud.live/thendralmdu/thendral2/tracks-v1a1/mono.m3u8
-10:667a33f4d5bb3587f2d5209886839eac
-0:5eb3762b1a4631a0b98e25e23cef0193
+#EXTINF:-1,USA_NETWORK movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPyFISyibOuWTvVM2COueUH
 
-#EXTINF:-1,Kalaingar Tv
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1,WARNER CHANNEL movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPGaUpwkFknX5qUy8Ga0LJ3
 
-#EXTINF:-1,Siripoli
+#EXTINF:-1,INDIA_Siripoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
-#EXTINF:-1,Isaiaruvi
+#EXTINF:-1,INDIA_Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
-#EXTINF:-1,Murasu Tv
+#EXTINF:-1,INDIA_Murasu Tv
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:-1,TELECINE ACTION
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPfqm-8yXJ6HRceGK_H0Fwa
+
+#EXTINF:-1,TELECINE CULT
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMf1c-F8vJLI_G_RH2lp-4A
+
+#EXTINF:-1,TELECINE FUN
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMgAT4ADEfoCeAMdh54s4HH
+
+#EXTINF:-1,TELECINE PIPOCA
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO3zz4_7yiwrbRsHZsFvE2E
+
+#EXTINF:-1,TELECINE PREMIUM
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMEmvrMTehcA5bNBAfIKPkw
+
+#EXTINF:-1,TELECINE TOUCH
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPkVSdh4jkilyOvl2_wamFq
+
+#EXTINF:-1,HBO 1 action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN1vAPELWFC-t2XkSeWHboV
+
+#EXTINF:-1,HBO 2 action movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMs4F7RiCc386e6VcEWwl1-
+
+#EXTINF:-1,HBO FAMILY movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPKq7kONS9NXtsqsrC5sLai
+
+#EXTINF:-1,HBO MUNDI movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNIy5XDW2knnX-innJx1hmG
+
+#EXTINF:-1,HBO PLUS movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMzQ6MpSKdJ3rkdFfLaJ8Sf
+
+#EXTINF:-1,HBO POP
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMsXQS7tclIggm-RLIiYCL9
+
+#EXTINF:-1,HBO SIGNATURE movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMIoPQzf9Evq4hbyIn9an6-
+
+#EXTINF:-1,HBO XTREME movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO8o74O2NWbLqAcvks-HVbC
+
+#EXTINF:-1,RUNTIME ACAO movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoLsX2CXXKGF-JcY9wk5JRFUECiQk6yNobK6tPF-IfUV
+
+#EXTINF:-1,RUNTIME CINE movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoLsX2CXXKGF-JcY9wk5JRF-RKzEKBd22RpJSPznRf_L
+
+#EXTINF:-1,RUNTIME COMEDIA movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvmVsmsdNL5319Khp5i0DIrZoWlwk9jHPu1cBwA8lBDDI
+
+#EXTINF:-1,RUNTIME CRIME movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhydexKsYIVt8dGGqUSLDhe2t4L8k5HkqDJb4s3HYFxa
+
+#EXTINF:-1,RUNTIME FAMILIA movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoLsX2CXXKGF-JcY9wk5JRGWR1oVw6xNSqLpuKktoOTh
+
+#EXTINF:-1,RUNTIME ROMANCE movie
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvmVsmsdNL5319Khp5i0DIrYBZ58yEqw0NPQTZHWwdzzW
+
+#EXTINF:-1,RUNTIME TVE FLIMES
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhydexKsYIVt8dGGqUSLDhftVcedrykwsIjn4PB_0N5E
+
+#EXTINF:-1,FOOD NETWORK
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO1A90NxqdJHv4fjmcXTLBe
+
+#EXTINF:-1,SABOR & ARTE
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMciw0M55am93kOmTBgkO4a
 
 ==================================================
 
@@ -381,9 +448,6 @@ http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
 
 #EXTINF:-1,ThorGodofThunder2022
 http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
-
-#EXTINF:-1,DoctorStrange
-http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
 
 #EXTINF:-1,Interceptor
 http://www.zegomovie.com/Videos/Interceptor/index.m3u8
