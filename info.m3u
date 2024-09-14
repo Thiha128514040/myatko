@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,MK
+https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001726278762-0-0-45af183e357961ec0c123a557df3b6b3
+#EXTINF:-1,MK
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
+#EXTINF:-1,MK
+https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=dc1b01f0163ea726fdda3de6ed522a26&txTime=66e56818
+#EXTINF:-1,MK
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1726292544-0-0-6cbf3aad9f01d775ffd5216a0eec321d
+#EXTINF:-1,MK
+https://pull.niues.live/live/stream-9912093_lhd.m3u8?auth_key=1726315824-0-0-56c1f08027ff70e0c5ee54908c0846f4
 
 #EXTINF:-1,MK Home
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
