@@ -28,6 +28,12 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:-1,MVM
 https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
+#EXTINF:-1,2D Line
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+
+#EXTINF:-1,3D Line
+https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/manifest.m3u8
+
 ===================================================
 
 #EXTINF:-1,CARTOON CHANNEL
@@ -181,6 +187,12 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvoU2rlDUcbfEI_Bv_RbBmyoPGt7UnGvrquNH
 
 #EXTINF:-1,***24 Hours Sport***
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWcR2uUpruI9oLtMsBNLjG3O
+
+#EXTINF:-1,PPTV SPORT
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+
+#EXTINF:-1,Thai SPORT
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 #EXTINF:-1,BEIN SPORT 1
 http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
