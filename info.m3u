@@ -208,50 +208,8 @@ http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/907
 #EXTINF:-1,COMBATE  Sport
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWsXs-PsYjOq--1DM9Ov-o
 
-#EXTINF:-1,COMBATE Globle
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-
 #EXTINF:-1,UFC  Sport
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWf2hwKL-Jx_ocjJWm8elUBH
-
-#EXTINF:-1,MMA Sport
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
-
-#EXTINF:-1,EXTREME Sport
-https://edge02.odtv.az/o4/extremesport/playlist.m3u8
-
-#EXTINF:-1,Fight Sport
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5722f4bc-fbe1-409f-ad8f-4559e5ebda2f
-
-#EXTINF:-1,Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1,Fight Box
-http://stream01.vnet.am/Fightbox/mono.m3u8
-
-#EXTINF:-1,Fite 1
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-
-#EXTINF:-1,Fite 2
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
-
-#EXTINF:-1,Glory Kickboxing
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-
-#EXTINF:-1,IMPACT Plus
-https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1,Swerve fight Sport
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-
-#EXTINF:-1,Golf Network
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-
-#EXTINF:-1,One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-#EXTINF:-1,PGA Tower Golf
-https://lnc-pga3.tubi.video/index.m3u8
 
 #EXTINF:-1,BAND SPORT
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkdwtU-EY4au8Oe6bIGvMSQ5YlElFSqxyWAoQ4qbSCTK
@@ -307,110 +265,8 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHOUaKFZS7Ixa62x
 #EXTINF:-1,PREMIERE 7
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWJzkP85EB0Cv7p4qEsm7t
 
-#EXTINF:-1,Moto Sport
-http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-
 #EXTINF:-1,ASpor Sport
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-
-#EXTINF:-1,Abu Sport 1
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-
-#EXTINF:-1,Abu Sport 2
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-
-#EXTINF:-1,Action Sport
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0870-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a89100a8-8115-4b28-9869-072164526f31
-
-#EXTINF:-1,Adventure Sport
-https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
-
-#EXTINF:-1,Afro Sport
-https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-
-#EXTINF:-1,ATG Sport
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-
-#EXTINF:-1,Bahrain Sport 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1,Bahrain Sport 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1,Bein Sport Xtra
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
-
-#EXTINF:-1,BEK TV Sport
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-
-#EXTINF:-1,Canal Sport
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-
-#EXTINF:-1,CBS Sport Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1,Colimdo Sport
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-
-#EXTINF:-1,DD Sport
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-#EXTINF:-1,Dubai Sport 1
-https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-
-#EXTINF:-1,Dubai Sport 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-
-#EXTINF:-1,Dubai Sport 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-
-#EXTINF:-1,FL Sport
-https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
-
-#EXTINF:-1,Futbol Sport
-https://live.teleradiocom.tj/8/3m.m3u8
-
-#EXTINF:-1,IDMAN Sport
-https://edge02.odtv.az/o7/idman/playlist.m3u8
-
-#EXTINF:-1,INTER TV
-https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-
-#EXTINF:-1,Real Madrid TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-
-#EXTINF:-1,MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:-1,KTV Sport
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-
-#EXTINF:-1,KTV Sport Plus
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-
-#EXTINF:-1,NHL Network
-https://lnc-nhl.tubi.video/playlist.m3u8
-
-#EXTINF:-1,NHRA DRAG Recine
-https://lnc-nhra.tubi.video/nh.m3u8
-
-#EXTINF:-1,Oman Sport TV
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1,PBR Ride Pass
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190
-
-#EXTINF:-1,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1,Viju+Sport
-https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
-
-#EXTINF:-1,5 Sport 1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-
-#EXTINF:-1,5 Sport 2
-https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 
 #EXTINF:-1,FISH TV
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN1vAO-sclR75SCoHCRNmOg
