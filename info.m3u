@@ -3,30 +3,6 @@
 #EXTINF:-1,MK Home
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
-#EXTINF:-1,MK Live 1
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
-
-#EXTINF:-1,MK Live 2
-https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1726292544-0-0-6cbf3aad9f01d775ffd5216a0eec321d
-
-#EXTINF:-1,MK_ESPN FD 1
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG4a-EFB_d8AOwe9xrLPnuUw
-
-#EXTINF:-1,MK_ESPN FD 2
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG6fi1I57_Q0QRVzZdNbWtsi
-
-#EXTINF:-1,MK_ESPN FD 3
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG4YYLov5SfEvMvvHPh25Gch
-
-#EXTINF:-1,MK_ESPN FD 4
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG5aZbJtKlogIKqw-klE4uax
-
-#EXTINF:-1,MK_ESPN FD 5
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvlWYxAiVrvZhiBFdSZbbxUFxD-8yQCuTvdG02zFEO_Uo
-
-#EXTINF:-1,MK_ESPN FD 6
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG5W3kMD2MQrBQhHEzPQoLaZ
-
 #EXTINF:-1,Channelk
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
@@ -85,8 +61,32 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO9LJvhl4fvfWfs
 
 ===================================================
 
-#EXTINF:-1,PlayList_Date,Time,Channel
+#EXTINF:-1,***Football_PlayList***
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWfeHENB4LnUIYYN4pyVQnG1
+
+#EXTINF:-1,MK Live 1
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
+
+#EXTINF:-1,MK Live 2
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1726292544-0-0-6cbf3aad9f01d775ffd5216a0eec321d
+
+#EXTINF:-1,MK_ESPN FHD 1
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG4a-EFB_d8AOwe9xrLPnuUw
+
+#EXTINF:-1,MK_ESPN FHD 2
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG6fi1I57_Q0QRVzZdNbWtsi
+
+#EXTINF:-1,MK_ESPN FHD 3
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG4YYLov5SfEvMvvHPh25Gch
+
+#EXTINF:-1,MK_ESPN FHD 4
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG5aZbJtKlogIKqw-klE4uax
+
+#EXTINF:-1,MK_ESPN FHD 5
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvlWYxAiVrvZhiBFdSZbbxUFxD-8yQCuTvdG02zFEO_Uo
+
+#EXTINF:-1,MK_ESPN FHD 6
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvh3LLCu7Itcl5C0qMCmaNG5W3kMD2MQrBQhHEzPQoLaZ
 
 #EXTINF:-1,AMAZON  PRIME  Sport 2
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhQpc5o8p-6kWzeLt4u53D7HTyrdlg6mcYmDhv0F7Wpv
