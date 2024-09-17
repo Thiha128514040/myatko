@@ -64,6 +64,33 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO9LJvhl4fvfWfs
 #EXTINF:-1,***Football_PlayList***
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWfeHENB4LnUIYYN4pyVQnG1
 
+#EXTINF:-1,Astro AEC
+http://210.186.133.208:61234/stream/sooka/aec/master.m3u8
+
+#EXTINF:-1,Astro Arena
+http://210.186.133.208:61234/stream/sooka/arena2/master.m3u8
+
+#EXTINF:-1,Astro ASSP1
+http://210.186.133.208:61234/stream/sooka/assp1/master.m3u8
+
+#EXTINF:-1,Astro ASSP2
+http://210.186.133.208:61234/stream/sooka/assp2/master.m3u8
+
+#EXTINF:-1,Astro ASSP3
+http://210.186.133.208:61234/stream/sooka/assp3/master.m3u8
+
+#EXTINF:-1,Astro ASSP4
+http://210.186.133.208:61234/stream/sooka/assp4/master.m3u8
+
+#EXTINF:-1,Astro Bola 1
+http://210.186.133.208:61234/stream/sooka/bola1/master.m3u8
+
+#EXTINF:-1,Astro Bola 2
+http://210.186.133.208:61234/stream/sooka/bola2/master.m3u8
+
+#EXTINF:-1,Astro QJ
+http://210.186.133.208:61234/stream/sooka/quanjiaqj/master.m3u8
+
 #EXTINF:-1,MK Live 1
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
 
