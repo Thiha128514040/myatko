@@ -1,6 +1,8 @@
 #EXTM3U
-
 #EXTINF:-1,MK Home
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1,MK_KARAOKE
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
 #EXTINF:-1,Channelk
