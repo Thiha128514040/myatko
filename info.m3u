@@ -62,31 +62,31 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO9LJvhl4fvfWfs
 ===================================================
 
 #EXTINF:-1,***Football_PlayList***
-http://210.186.133.208:61234/stream/sooka/aec/master.m3u8
+http://213.176.3.72:1234/stream/ssc/bein1sd/master.m3u8
 
-#EXTINF:-1,Astro Arena
-http://210.186.133.208:61234/stream/sooka/arena2/master.m3u8
+#EXTINF:-1,SSC SPORT 1
+http://213.176.3.72:1234/stream/ssc/ssc1/master.m3u8
 
-#EXTINF:-1,Astro ASSP1
-http://210.186.133.208:61234/stream/sooka/assp1/master.m3u8
+#EXTINF:-1,SSC SPORT 2
+http://213.176.3.72:1234/stream/ssc/ssc2/master.m3u8
 
-#EXTINF:-1,Astro ASSP2
-http://210.186.133.208:61234/stream/sooka/assp2/master.m3u8
+#EXTINF:-1,SSC SPORT 3
+http://213.176.3.72:1234/stream/ssc/ssc3/master.m3u8
 
-#EXTINF:-1,Astro ASSP3
-http://210.186.133.208:61234/stream/sooka/assp3/master.m3u8
+#EXTINF:-1,SSC SPORT 4
+http://213.176.3.72:1234/stream/ssc/ssc4/master.m3u8
 
-#EXTINF:-1,Astro ASSP4
-http://210.186.133.208:61234/stream/sooka/assp4/master.m3u8
+#EXTINF:-1,SSC SPORT 5
+http://213.176.3.72:1234/stream/ssc/ssc5/master.m3u8
 
-#EXTINF:-1,Astro Bola 1
-http://210.186.133.208:61234/stream/sooka/bola1/master.m3u8
+#EXTINF:-1,SSC EXTRA 1
+http://213.176.3.72:1234/stream/ssc/sscex1/master.m3u8
 
-#EXTINF:-1,Astro Bola 2
-http://210.186.133.208:61234/stream/sooka/bola2/master.m3u8
+#EXTINF:-1,SSC EXTRA 2
+http://213.176.3.72:1234/stream/ssc/sscex2/master.m3u8
 
-#EXTINF:-1,Astro QJ
-http://210.186.133.208:61234/stream/sooka/quanjiaqj/master.m3u8
+#EXTINF:-1,SSC EXTRA 3
+http://213.176.3.72:1234/stream/ssc/sscex3/master.m3u8
 
 #EXTINF:-1,MK Live 1
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
