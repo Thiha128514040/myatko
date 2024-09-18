@@ -59,6 +59,11 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMlAp5UCtVtvQmM
 #EXTINF:-1,TOON CAST
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO9LJvhl4fvfWfsvi6mVpjt
 
+#EXTINF:-1,Boomerange
+http://213.176.3.72:1234/stream/FRANCE/324/master.m3u8
+
+#EXTINF:-1,Boomerange+1
+http://213.176.3.72:1234/stream/FRANCE/1077/master.m3u8
 ===================================================
 
 #EXTINF:-1,***Football_PlayList***
