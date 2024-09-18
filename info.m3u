@@ -98,6 +98,33 @@ http://213.176.3.72:1234/stream/ssc/sscex2/master.m3u8
 #EXTINF:-1,SSC EXTRA 3
 http://213.176.3.72:1234/stream/ssc/sscex3/master.m3u8
 
+#EXTINF:-1,TNT_Sport 1
+http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112972.ts
+
+#EXTINF:-1,TNT_Sport 2
+http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5152.ts
+
+#EXTINF:-1,TNT_Sport 3
+http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112965.ts
+
+#EXTINF:-1,TNT_Sport 4
+http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112962.ts
+
+#EXTINF:-1,T_Sport
+http://xtv.ooo:8080/live/global/global/167590.ts
+
+#EXTINF:-1,CHAMPION League Sport
+http://xtv.ooo:8080/live/874246786/743567899/238478.ts
+
+#EXTINF:-1,LALIGA_Sport
+http://xtv.ooo:8080/live/874246786/743567899/238479.ts
+
+#EXTINF:-1,Starsport_Select 1
+http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792593&extension=ts&play_token=T3bl3kTNnH
+
+#EXTINF:-1,Starsport_Select 2
+http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792594&extension=ts&play_token=sHB5BwGJNJ
+
 #EXTINF:-1,MK Live 1
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
 
