@@ -98,6 +98,15 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj-O5Cjz5kesMQrR
 #EXTINF:-1,CHAMPIONS 04
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj8Bc4K2rBueDGD9a7BnodDS
 
+#EXTINF:-1,COMBATE  Sport
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWsXs-PsYjOq--1DM9Ov-o
+
+#EXTINF:-1,UFC  Sport
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWf2hwKL-Jx_ocjJWm8elUBH
+
+#EXTINF:-1,WWE SONY Sport
+http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
+
 #EXTINF:-1,***24 Hours Sport***
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWcR2uUpruI9oLtMsBNLjG3O
 
@@ -112,12 +121,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1,ARENA PREMIUM 2
 http://filex.tv:8080/live/gtr/gtr/302818.ts
-
-#EXTINF:-1,Astro Sport
-https://cdn.whystream.pro:8089/hls/ujwsgck5Vjwh/index.m3u8
-
-#EXTINF:-1,Claro Sport
-http://200.60.124.19:29000/play/a01v/index.m3u8
 
 #EXTINF:-1,BEINSPORT PREMIER 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -146,24 +149,6 @@ http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/906
 #EXTINF:-1,BEIN SPORT 7
 http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/907
 
-#EXTINF:-1,COMBATE  Sport
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWsXs-PsYjOq--1DM9Ov-o
-
-#EXTINF:-1,UFC  Sport
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWf2hwKL-Jx_ocjJWm8elUBH
-
-#EXTINF:-1,WWE SONY Sport
-http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
-
-#EXTINF:-1,SONY SPORT 2
-http://103.84.57.155:8000/play/a0a0/index.m3u8
-
-#EXTINF:-1,BAND SPORT
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkdwtU-EY4au8Oe6bIGvMSQ5YlElFSqxyWAoQ4qbSCTK
-
-#EXTINF:-1,CANAL OFF
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkdwtU-EY4au8Oe6bIGvMSRKqJYcmRa8-Gv7avje3LwT
-
 #EXTINF:-1,ESPN 1
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHObRpPW49CiK4fZFlnQnJGR
 
@@ -190,6 +175,12 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNL7YXIICCrAEKS
 
 #EXTINF:-1,SPORTV 3
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN6hefaWOWTei7Khz14cVYo
+
+#EXTINF:-1,SONY SPORT 2
+http://103.84.57.155:8000/play/a0a0/index.m3u8
+
+#EXTINF:-1,BAND SPORT
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkdwtU-EY4au8Oe6bIGvMSQ5YlElFSqxyWAoQ4qbSCTK
 
 #EXTINF:-1,GolTV HD
 http://200.60.124.19:29000/play/a0ak/index.m3u8
