@@ -74,49 +74,49 @@ http://213.176.3.72:1234/stream/FRANCE/1077/master.m3u8
 #EXTINF:-1,***Football_PlayList***
 http://213.176.3.72:1234/stream/ssc/bein1sd/master.m3u8
 
-#EXTINF:-1,SSC SPORT 1
+#EXTINF:-1,SSC SPORT1
 http://213.176.3.72:1234/stream/ssc/ssc1/master.m3u8
 
-#EXTINF:-1,SSC SPORT 2
+#EXTINF:-1,SSC SPORT2
 http://213.176.3.72:1234/stream/ssc/ssc2/master.m3u8
 
-#EXTINF:-1,SSC SPORT 3
+#EXTINF:-1,SSC SPORT3
 http://213.176.3.72:1234/stream/ssc/ssc3/master.m3u8
 
-#EXTINF:-1,SSC SPORT 4
+#EXTINF:-1,SSC SPORT4
 http://213.176.3.72:1234/stream/ssc/ssc4/master.m3u8
 
-#EXTINF:-1,SSC SPORT 5
+#EXTINF:-1,SSC SPORT5
 http://213.176.3.72:1234/stream/ssc/ssc5/master.m3u8
 
-#EXTINF:-1,SSC EXTRA 1
+#EXTINF:-1,SSC EXTRA1
 http://213.176.3.72:1234/stream/ssc/sscex1/master.m3u8
 
-#EXTINF:-1,SSC EXTRA 2
+#EXTINF:-1,SSC EXTRA2
 http://213.176.3.72:1234/stream/ssc/sscex2/master.m3u8
 
-#EXTINF:-1,SSC EXTRA 3
+#EXTINF:-1,SSC EXTRA3
 http://213.176.3.72:1234/stream/ssc/sscex3/master.m3u8
 
-#EXTINF:-1,TNT_Sport 1
+#EXTINF:-1,TNT_Sport1
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112972.ts
 
-#EXTINF:-1,TNT_Sport 2
+#EXTINF:-1,TNT_Sport2
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5152.ts
 
-#EXTINF:-1,TNT_Sport 3
+#EXTINF:-1,TNT_Sport3
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112965.ts
 
-#EXTINF:-1,TNT_Sport 4
+#EXTINF:-1,TNT_Sport4
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112962.ts
 
 #EXTINF:-1,T_Sport
 http://xtv.ooo:8080/live/global/global/167590.ts
 
-#EXTINF:-1,CHAMPION League Sport
+#EXTINF:-1,CHAMPION League
 http://xtv.ooo:8080/live/874246786/743567899/238478.ts
 
-#EXTINF:-1,LALIGA_Sport
+#EXTINF:-1,LALIGA
 http://xtv.ooo:8080/live/874246786/743567899/238479.ts
 
 #EXTINF:-1,Starsport_Select 1
