@@ -5,9 +5,6 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1,Myanmar_Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
-#EXTINF:-1,Hindi_Music
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tehelkatv.stream/playlist.m3u8
-
 #EXTINF:-1,Channelk
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
@@ -73,51 +70,6 @@ http://213.176.3.72:1234/stream/FRANCE/1077/master.m3u8
 
 #EXTINF:-1,***Football_PlayList***
 http://213.176.3.72:1234/stream/ssc/bein1sd/master.m3u8
-
-#EXTINF:-1,SSC SPORT1
-http://213.176.3.72:1234/stream/ssc/ssc1/master.m3u8
-
-#EXTINF:-1,SSC SPORT2
-http://213.176.3.72:1234/stream/ssc/ssc2/master.m3u8
-
-#EXTINF:-1,SSC SPORT3
-http://213.176.3.72:1234/stream/ssc/ssc3/master.m3u8
-
-#EXTINF:-1,SSC SPORT4
-http://213.176.3.72:1234/stream/ssc/ssc4/master.m3u8
-
-#EXTINF:-1,SSC SPORT5
-http://213.176.3.72:1234/stream/ssc/ssc5/master.m3u8
-
-#EXTINF:-1,SSC EXTRA1
-http://213.176.3.72:1234/stream/ssc/sscex1/master.m3u8
-
-#EXTINF:-1,SSC EXTRA2
-http://213.176.3.72:1234/stream/ssc/sscex2/master.m3u8
-
-#EXTINF:-1,SSC EXTRA3
-http://213.176.3.72:1234/stream/ssc/sscex3/master.m3u8
-
-#EXTINF:-1,TNT_Sport1
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112972.ts
-
-#EXTINF:-1,TNT_Sport2
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5152.ts
-
-#EXTINF:-1,TNT_Sport3
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112965.ts
-
-#EXTINF:-1,TNT_Sport4
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/112962.ts
-
-#EXTINF:-1,T_Sport
-http://xtv.ooo:8080/live/global/global/167590.ts
-
-#EXTINF:-1,CHAMPION League
-http://xtv.ooo:8080/live/874246786/743567899/238478.ts
-
-#EXTINF:-1,LALIGA
-http://xtv.ooo:8080/live/874246786/743567899/238479.ts
 
 #EXTINF:-1,Starsport_Select 1
 http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792593&extension=ts&play_token=T3bl3kTNnH
@@ -196,9 +148,6 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvhQpc5o8p-6kWzeLt4u53D4SXFf8LZeQtkOZ
 
 #EXTINF:-1,ONE FOOTBALL 02
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkO7cYsJhPL93HzpAF3e3zAudcTe6iEjMYYJPPSUZ54p
-
-#EXTINF:-1,PARAMOUNT NETWORK
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPHPC1LGDmO2H1fWAPXGt1I
 
 #EXTINF:-1,PARAMOUNT + 01
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvjLGT8L81Go8NfKukLUgi4QQCDblD1yK-ISznJ48jL6f
@@ -368,6 +317,33 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWJzkP85EB0Cv7
 #EXTINF:-1,ASpor Sport
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
+#EXTINF:-1,SSC SPORT1
+http://213.176.3.72:1234/stream/ssc/ssc1/master.m3u8
+
+#EXTINF:-1,SSC SPORT2
+http://213.176.3.72:1234/stream/ssc/ssc2/master.m3u8
+
+#EXTINF:-1,SSC SPORT3
+http://213.176.3.72:1234/stream/ssc/ssc3/master.m3u8
+
+#EXTINF:-1,SSC SPORT4
+http://213.176.3.72:1234/stream/ssc/ssc4/master.m3u8
+
+#EXTINF:-1,SSC SPORT5
+http://213.176.3.72:1234/stream/ssc/ssc5/master.m3u8
+
+#EXTINF:-1,SSC EXTRA1
+http://213.176.3.72:1234/stream/ssc/sscex1/master.m3u8
+
+#EXTINF:-1,SSC EXTRA2
+http://213.176.3.72:1234/stream/ssc/sscex2/master.m3u8
+
+#EXTINF:-1,SSC EXTRA3
+http://213.176.3.72:1234/stream/ssc/sscex3/master.m3u8
+
+#EXTINF:-1,TNT_Sport
+http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5152.ts
+
 ======================================================
 
 #EXTINF:-1,ANIMAL PLANET
@@ -422,6 +398,9 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNllCSv4lt4ZEZw
 
 #EXTINF:-1,***Inter Movie***
 http://lnc-cinevault-80s.tubi.video/1200.m3u8
+
+#EXTINF:-1,PARAMOUNT NETWORK
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPHPC1LGDmO2H1fWAPXGt1I
 
 #EXTINF:-1,FTV action movie
 https://master.tucableip.com/ftv/index.m3u8
