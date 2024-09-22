@@ -77,6 +77,21 @@ http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792593&extens
 #EXTINF:-1,Starsport_Select 2
 http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792594&extension=ts&play_token=sHB5BwGJNJ
 
+#EXTINF:-1,Super Sport
+https://shandaardukaan.store/chunklist/hlsch5.m3u8#https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/2.m3u8
+
+#EXTINF:-1,B1 Sport
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1,B2 Sport
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+
+#EXTINF:-1,Star Sport S1
+http://103.84.57.155:8000/play/a09y/index.m3u8
+
+#EXTINF:-1,Star Sport S2
+http://103.84.57.155:8000/play/a09z/index.m3u8
+
 #EXTINF:-1,MK Live 1
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
 
@@ -585,6 +600,128 @@ http://103.49.69.156:8000/play/a02v/index.m3u8
 http://103.49.69.156:8000/play/a018/index.m3u8
 #EXTINF:-1,Turbo Xtra Poland HD
 http://103.49.69.156:8000/play/a015/index.m3u8
+
+==================================================
+#EXTINF:-1,83e Satellite
+http://103.84.57.155:8000/play/a03u/index.m3u8
+#EXTINF:-1,PTV-Teleschool
+http://103.84.57.155:8000/play/a0b3/index.m3u8
+#EXTINF:-1,Disney Jr.-Rs 4
+http://103.84.57.155:8000/play/a03x/index.m3u8
+#EXTINF:-1,DiscoveryScienc-Rs1
+http://103.84.57.155:8000/play/a0bw/index.m3u8
+#EXTINF:-1,HISTORY TV18 HD-Rs 7
+http://103.84.57.155:8000/play/a09n/index.m3u8
+#EXTINF:-1,MAX HD -Rs 17
+http://103.84.57.155:8000/play/a02b/index.m3u8
+#EXTINF:-1,Romedy NOW-Rs 6
+http://103.84.57.155:8000/play/a035/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD- Rs 17
+http://103.84.57.155:8000/play/a02q/index.m3u8
+#EXTINF:-1,SET HD - Rs 19
+http://103.84.57.155:8000/play/a084/index.m3u8
+#EXTINF:-1,Sony BBC EarHD-Rs 10
+http://103.84.57.155:8000/play/a09q/index.m3u8
+#EXTINF:-1,MTV - Rs 3
+http://103.84.57.155:8000/play/a040/index.m3u8
+#EXTINF:-1,Star Sport - Rs19
+http://103.84.57.155:8000/play/a02g/index.m3u8
+#EXTINF:-1,DiscoveryTurbo-Rs1
+http://103.84.57.155:8000/play/a0bx/index.m3u8
+#EXTINF:-1,Vh1 - Rs 1
+http://103.84.57.155:8000/play/a041/index.m3u8
+#EXTINF:-1,PTV-SPORTS-HD
+http://103.84.57.155:8000/play/a0b4/index.m3u8
+#EXTINF:-1,PTV-World
+http://103.84.57.155:8000/play/a0b5/index.m3u8
+#EXTINF:-1,SIX HD - Rs 19
+http://103.84.57.155:8000/play/a028/index.m3u8
+#EXTINF:-1,&pictures HD -Rs 19
+http://103.84.57.155:8000/play/a09u/index.m3u8
+#EXTINF:-1,STAR BHARAT HD-Rs 19
+http://103.84.57.155:8000/play/a09k/index.m3u8
+#EXTINF:-1,MARVEL HQ- Rs 4
+http://103.84.57.155:8000/play/a03w/index.m3u8
+#EXTINF:-1,Star Sports1 Kan Rs19
+http://103.84.57.155:8000/play/a06x/index.m3u8
+#EXTINF:-1,Evergreen Classics-Rs45
+http://103.84.57.155:8000/play/a0ca/index.m3u8
+#EXTINF:-1,Discovery HD-Rs6
+http://103.84.57.155:8000/play/a00y/index.m3u8
+#EXTINF:-1,Star Spo 1 HD-Rs19
+http://103.84.57.155:8000/play/a025/index.m3u8
+#EXTINF:-1,CNN INTL - 50p
+http://103.84.57.155:8000/play/a02x/index.m3u8
+#EXTINF:-1,Star Sports-Rs7
+http://103.84.57.155:8000/play/a02k/index.m3u8
+#EXTINF:-1,Star GOLD HD -Rs 10
+http://103.84.57.155:8000/play/a09m/index.m3u8
+#EXTINF:-1,Star Sports S 2 HD-Rs 10
+http://103.84.57.155:8000/play/a09z/index.m3u8
+#EXTINF:-1,DISCOVERY K-Rs3
+http://103.84.57.155:8000/play/a050/index.m3u8
+#EXTINF:-1,PTV-NEWS HD
+http://103.84.57.155:8000/play/a0b2/index.m3u8
+#EXTINF:-1,TLC HD- Rs3
+http://103.84.57.155:8000/play/a00s/index.m3u8
+#EXTINF:-1,Colors HD-Rs 19
+http://103.84.57.155:8000/play/a082/index.m3u8
+#EXTINF:-1,&flix HD-Rs 19
+http://103.84.57.155:8000/play/a083/index.m3u8
+#EXTINF:-1,MN+ HD-Rs 10
+http://103.84.57.155:8000/play/a08s/index.m3u8
+#EXTINF:-1,National G HD-Rs10
+http://103.84.57.155:8000/play/a00x/index.m3u8
+#EXTINF:-1,Star Spo 2 HD- Rs19
+http://103.84.57.155:8000/play/a026/index.m3u8
+#EXTINF:-1,Star Sport-Rs19
+http://103.84.57.155:8000/play/a02d/index.m3u8
+#EXTINF:-1,Nick Jr. - Rs1
+http://103.84.57.155:8000/play/a042/index.m3u8
+#EXTINF:-1,Pogo - Rs 4.25
+http://103.84.57.155:8000/play/a03z/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD-Rs 19
+http://103.84.57.155:8000/play/a09j/index.m3u8
+#EXTINF:-1,Star Gold 2- Rs 2
+http://103.84.57.155:8000/play/a0c9/index.m3u8
+#EXTINF:-1,ZEE Cafe HD - Rs19
+http://103.84.57.155:8000/play/a08r/index.m3u8
+#EXTINF:-1,nick - Rs 6
+http://103.84.57.155:8000/play/a03v/index.m3u8
+#EXTINF:-1,Star Plus HD -Rs 19
+http://103.84.57.155:8000/play/a080/index.m3u8
+#EXTINF:-1,CARTOON-Rs4.25
+http://103.84.57.155:8000/play/a04t/index.m3u8
+#EXTINF:-1,MTV Beats- 10p
+http://103.84.57.155:8000/play/a045/index.m3u8
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://103.84.57.155:8000/play/a081/index.m3u8
+#EXTINF:-1,Star Sports S 1 HD-Rs 19
+http://103.84.57.155:8000/play/a09y/index.m3u8
+#EXTINF:-1,Star Sport-Rs17
+http://103.84.57.155:8000/play/a02p/index.m3u8
+#EXTINF:-1,Star Gold SelHD-Rs 10
+http://103.84.57.155:8000/play/a09p/index.m3u8
+#EXTINF:-1,PTV-Home
+http://103.84.57.155:8000/play/a0b1/index.m3u8
+#EXTINF:-1,SONY SAB - Rs 19
+http://103.84.57.155:8000/play/a0a8/index.m3u8
+#EXTINF:-1,&flix - Rs 15
+http://103.84.57.155:8000/play/a033/index.m3u8
+#EXTINF:-1,ANIMAL PLAN HD-Rs 3
+http://103.84.57.155:8000/play/a09l/index.m3u8
+#EXTINF:-1,STAR MOV HD-Rs 19
+http://103.84.57.155:8000/play/a00v/index.m3u8
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://103.84.57.155:8000/play/a0cc/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD- Rs 17
+http://103.84.57.155:8000/play/a0a0/index.m3u8
+#EXTINF:-1,StarMov S HD-Rs 10
+http://103.84.57.155:8000/play/a00w/index.m3u8
+#EXTINF:-1,PIX HD - Rs 15
+http://103.84.57.155:8000/play/a09t/index.m3u8
+#EXTINF:-1,DISCOVERY K-Rs3
+http://103.84.57.155:8000/play/a044/index.m3u8
 
 ==================================================
 
