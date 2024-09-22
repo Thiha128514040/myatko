@@ -658,7 +658,7 @@ http://103.49.69.156:8000/play/a018/index.m3u8
 http://103.49.69.156:8000/play/a015/index.m3u8
 
 ==================================================
-#EXTINF:-1,83e Satellite
+#EXTINF:-1,***TATA_83,Satellite***
 http://103.84.57.155:8000/play/a03u/index.m3u8
 #EXTINF:-1,PTV-Teleschool
 http://103.84.57.155:8000/play/a0b3/index.m3u8
