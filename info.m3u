@@ -104,6 +104,9 @@ https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1726292544-0-0-6cbf
 #EXTINF:-1,TNT_Sport
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5152.ts
 
+#EXTINF:-1,SKY Sport Football
+http://ottshow.net:80/xplanet739fdh/n5nRtOasjk0askd0a/72625
+
 #EXTINF:-1,CHAMPIONS 01
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj-tuGDYTJiN1P43giCCbI3U
 
