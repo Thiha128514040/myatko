@@ -191,65 +191,8 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN6hefaWOWTei7K
 #EXTINF:-1,SONY SPORT 2
 http://103.84.57.155:8000/play/a0a0/index.m3u8
 
-#EXTINF:-1,BAND SPORT
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvkdwtU-EY4au8Oe6bIGvMSQ5YlElFSqxyWAoQ4qbSCTK
-
-#EXTINF:-1,GolTV HD
-http://200.60.124.19:29000/play/a0ak/index.m3u8
-
-#EXTINF:-1,Movistar Deportes HD
-http://200.60.124.19:29000/play/a06p/index.m3u8
-
 #EXTINF:-1,MAT2
 http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
-
-#EXTINF:-1,MAT4
-http://185.57.68.33/110/mpegts
-
-#EXTINF:-1,beIN Sports 1 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6123/index.m3u8
-
-#EXTINF:-1,beIN Sports 3 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6124/index.m3u8
-
-#EXTINF:-1,beIN Sports 4 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6125/index.m3u8
-
-#EXTINF:-1,beIN Sports 5 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6126/index.m3u8
-
-#EXTINF:-1,beIN Sports 6 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6127/index.m3u8
-
-#EXTINF:-1,beIN Sports 7 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6128/index.m3u8
-
-#EXTINF:-1,beIN Sports 8 HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6129/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 Premium HD QA
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6131/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 HD EN
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6132/index.m3u8
-
-#EXTINF:-1,beIN Sports 2 HD EN
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6133/index.m3u8
-
-#EXTINF:-1,BT SPORT 1 FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6566/index.m3u8
-
-#EXTINF:-1,BT Sport 1 UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2505/index.m3u8
-
-#EXTINF:-1,BT SPORT 2 FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6565/index.m3u8
-
-#EXTINF:-1,BT Sport 2 UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2506/index.m3u8
-
-#EXTINF:-1,BT SPORT 3 FHD UK
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6564/index.m3u8
 
 #EXTINF:-1,Star Sports Select 2 FHD
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2507/index.m3u8
