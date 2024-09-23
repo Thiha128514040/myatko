@@ -17,15 +17,6 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1,MNTV Movie
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgODoyNjozOSBQTSZoYXNoX3ZhbHVlPUh5ZzJiZzJQc3B6UlFHVzJvNUk4dnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjAyMTY1ODYxOTg=
 
-#EXTINF:-1,MVM
-https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
-
-#EXTINF:-1,2D Line
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
-
-#EXTINF:-1,3D Line
-https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/manifest.m3u8
-
 ===================================================
 
 #EXTINF:-1,CARTOON CHANNEL
@@ -61,11 +52,6 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMlAp5UCtVtvQmM
 #EXTINF:-1,TOON CAST
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO9LJvhl4fvfWfsvi6mVpjt
 
-#EXTINF:-1,Boomerange
-http://213.176.3.72:1234/stream/FRANCE/324/master.m3u8
-
-#EXTINF:-1,Boomerange+1
-http://213.176.3.72:1234/stream/FRANCE/1077/master.m3u8
 ===================================================
 
 #EXTINF:-1,***Football_PlayList***
@@ -79,9 +65,6 @@ http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792593&extens
 
 #EXTINF:-1,Starsport_Select 2
 http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792594&extension=ts&play_token=sHB5BwGJNJ
-
-#EXTINF:-1,Super Sport
-https://shandaardukaan.store/chunklist/hlsch5.m3u8#https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/2.m3u8
 
 #EXTINF:-1,B1 Sport
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -125,23 +108,8 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWsXs-PsYjOq--
 #EXTINF:-1,UFC  Sport
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWf2hwKL-Jx_ocjJWm8elUBH
 
-#EXTINF:-1,SKYSPORTS
-https://z88.ubtvfans.com/live/rx3/2352/b171978e7b8f035e22f3b66a5277fa40/index.m3u8
-
-#EXTINF:-1,SBS SPORTS
-https://z88.ubtvfans.com/live/rx3/2354/6555f7be5acc837c1d54ce718f7ba0fc/index.m3u8
-
-#EXTINF:-1,MBC SPORTS
-https://z88.ubtvfans.com/live/rx2/3174/bf6c378d2a26a26b066571089ffff070/index.m3u8
-
-#EXTINF:-1,N SPORTS
-https://z88.ubtvfans.com/live/rx2/174/f021cba099403644d620723c5f4c46f1/index.m3u8
-
-#EXTINF:-1,TVN SPORTS
-https://z88.ubtvfans.com/live/rx3/2931/b5f5636d01d91997de849d87e530f67f/index.m3u8
-
 #EXTINF:-1,ASTRO SUPERSPORT
-https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
+http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
 
 #EXTINF:-1,ASTRO SUPERSPORT 2
 https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
