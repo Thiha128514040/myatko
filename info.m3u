@@ -53,8 +53,6 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHMlAp5UCtVtvQmM
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHO9LJvhl4fvfWfsvi6mVpjt
 
 ===================================================
-#EXTINF:-1,WWE-Network
-http://mohdtv.com:8880/ALLChannelsa02c364da12e/72752124/3083
 
 #EXTINF:-1,COMBATE  Sport
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHPWsXs-PsYjOq--1DM9Ov-o
@@ -76,7 +74,8 @@ https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1726292544-0-0-6cbf
 #EXTINF:-1,TEN_Sport
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-p://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
+#EXTINF:-1,BEIN SPORT 1
+http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
 
 #EXTINF:-1,BEIN SPORT 2
 http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/902
@@ -192,8 +191,6 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1,BEINSPORT PREMIER 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
-#EXTINF:-1,BEIN SPORT 1
-htt
 #EXTINF:-1,SONY SPORT 2
 http://103.84.57.155:8000/play/a0a0/index.m3u8
 
