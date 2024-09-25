@@ -67,110 +67,16 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvnbf0Ru21rx2kli6W6iIgWf2hwKL-Jx_ocjJ
 #EXTINF:-1,***Football_PlayList***
 http://213.176.3.72:1234/stream/ssc/bein1sd/master.m3u8
 
-#EXTINF:-1,aport.tv 1
-http://mohdtv.com:8880/ALLChannelsa02c364da12e/72752124/3192
-
-#EXTINF:-1,aport.tv 2
-http://mohdtv.com:8880/ALLChannelsa02c364da12e/72752124/3191
-
-#EXTINF:-1,aport.tv 3
-http://mohdtv.com:8880/ALLChannelsa02c364da12e/72752124/3190
-
-#EXTINF:-1,aport.tv 4
-http://mohdtv.com:8880/ALLChannelsa02c364da12e/72752124/3189
-
-#EXTINF:-1,aport.tv 5
-http://mohdtv.com:8880/ALLChannelsa02c364da12e/72752124/3188
-
-#EXTINF:-1,aport.tv +
-http://mohdtv.com:8880/ALLChannelsa02c364da12e/72752124/3187
-
-#EXTINF:-1,TEN_Sport
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-#EXTINF:-1,Starsport_Select 1
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792593&extension=ts&play_token=T3bl3kTNnH
-
-#EXTINF:-1,Starsport_Select 2
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:49:6C:31&stream=792594&extension=ts&play_token=sHB5BwGJNJ
-
-#EXTINF:-1,B1 Sport
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-
-#EXTINF:-1,B2 Sport
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1,Star Sport S1
-http://103.84.57.155:8000/play/a09y/index.m3u8
-
-#EXTINF:-1,Star Sport S2
-http://103.84.57.155:8000/play/a09z/index.m3u8
-
 #EXTINF:-1,MK Live 1
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670508d899f6bf26f89a8977002bfaff
 
 #EXTINF:-1,MK Live 2
 https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1726292544-0-0-6cbf3aad9f01d775ffd5216a0eec321d
 
-#EXTINF:-1,TNT_Sport
-http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5152.ts
+#EXTINF:-1,TEN_Sport
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1,SKY Sport Football
-http://ottshow.net:80/xplanet739fdh/n5nRtOasjk0askd0a/72625
-
-#EXTINF:-1,CHAMPIONS 01
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj-tuGDYTJiN1P43giCCbI3U
-
-#EXTINF:-1,CHAMPIONS 02
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj9XUM1uxeQI2PCs1S2lV3hq
-
-#EXTINF:-1,CHAMPIONS 03
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj-O5Cjz5kesMQrRlLq8EpLZ
-
-#EXTINF:-1,CHAMPIONS 04
-http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj8Bc4K2rBueDGD9a7BnodDS
-
-#EXTINF:-1,ASTRO SUPERSPORT
-http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
-
-#EXTINF:-1,ASTRO SUPERSPORT 2
-http://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
-
-#EXTINF:-1,ASTRO SUPERSPORT 3
-http://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
-
-#EXTINF:-1,ASTRO SUPERSPORT 4
-http://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
-
-#EXTINF:-1,PREMIER SPORTS 1
-http://z88.ubtvfans.com/live/rx3/1411/5b143685850adfe910301ac9f9bdbbf3/index.m3u8
-
-#EXTINF:-1,SKYSPORTS PREMIERLEAGUE
-http://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8
-
-#EXTINF:-1,SKYSPORTS MAIN EVENT
-http://z88.ubtvfans.com/live/rx3/2787/540958cfc667da8028df5cba48468db7/index.m3u8
-
-#EXTINF:-1,SKYSPORTS UNO
-http://z88.ubtvfans.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8
-
-#EXTINF:-1,***24 Hours Sport***
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORT XTRA
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1,ARENA PREMIUM 2
-http://filex.tv:8080/live/gtr/gtr/302818.ts
-
-#EXTINF:-1,BEINSPORT PREMIER 1
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-
-#EXTINF:-1,BEINSPORT PREMIER 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORT 1
-http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
+p://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/901
 
 #EXTINF:-1,BEIN SPORT 2
 http://authxplus-2.xyz:2082/Tourobox1-i9RUztB0W2/ewz5h48dVV/902
@@ -217,6 +123,77 @@ http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHNL7YXIICCrAEKS
 #EXTINF:-1,SPORTV 3
 http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvrOog2vNTR5HzcAia1vTDHN6hefaWOWTei7Khz14cVYo
 
+#EXTINF:-1,Star Sport S1
+http://103.84.57.155:8000/play/a09y/index.m3u8
+
+#EXTINF:-1,Star Sport S2
+http://103.84.57.155:8000/play/a09z/index.m3u8
+
+#EXTINF:-1,ASTRO SUPERSPORT
+http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
+
+#EXTINF:-1,ASTRO SUPERSPORT 2
+http://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
+
+#EXTINF:-1,ASTRO SUPERSPORT 3
+http://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
+
+#EXTINF:-1,ASTRO SUPERSPORT 4
+http://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
+
+#EXTINF:-1,B1 Sport
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1,B2 Sport
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+
+#EXTINF:-1,TNT_Sport
+http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5152.ts
+
+#EXTINF:-1,SKY Sport Football
+http://ottshow.net:80/xplanet739fdh/n5nRtOasjk0askd0a/72625
+
+#EXTINF:-1,CHAMPIONS 01
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj-tuGDYTJiN1P43giCCbI3U
+
+#EXTINF:-1,CHAMPIONS 02
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj9XUM1uxeQI2PCs1S2lV3hq
+
+#EXTINF:-1,CHAMPIONS 03
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj-O5Cjz5kesMQrRlLq8EpLZ
+
+#EXTINF:-1,CHAMPIONS 04
+http://mov4.net:80/play/3HJeIDlQGWKMTpGRxHRZvs_E9GfFJA4QQOpQSRoVaj8Bc4K2rBueDGD9a7BnodDS
+
+#EXTINF:-1,PREMIER SPORTS 1
+http://z88.ubtvfans.com/live/rx3/1411/5b143685850adfe910301ac9f9bdbbf3/index.m3u8
+
+#EXTINF:-1,SKYSPORTS PREMIERLEAGUE
+http://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8
+
+#EXTINF:-1,SKYSPORTS MAIN EVENT
+http://z88.ubtvfans.com/live/rx3/2787/540958cfc667da8028df5cba48468db7/index.m3u8
+
+#EXTINF:-1,SKYSPORTS UNO
+http://z88.ubtvfans.com/live/rx3/1597/4969c926b3543d36620d428e3e77bb9b/index.m3u8
+
+#EXTINF:-1,***24 Hours Sport***
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT XTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,ARENA PREMIUM 2
+http://filex.tv:8080/live/gtr/gtr/302818.ts
+
+#EXTINF:-1,BEINSPORT PREMIER 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1,BEINSPORT PREMIER 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT 1
+htt
 #EXTINF:-1,SONY SPORT 2
 http://103.84.57.155:8000/play/a0a0/index.m3u8
 
