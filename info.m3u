@@ -129,16 +129,25 @@ http://103.84.57.155:8000/play/a09y/index.m3u8
 http://103.84.57.155:8000/play/a09z/index.m3u8
 
 #EXTINF:-1,ASTRO SUPERSPORT
-http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
+https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
 
 #EXTINF:-1,ASTRO SUPERSPORT 2
-http://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
+https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
 
 #EXTINF:-1,ASTRO SUPERSPORT 3
-http://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
+https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
 
 #EXTINF:-1,ASTRO SUPERSPORT 4
-http://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
+https://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
+
+#EXTINF:-1,Astro 3A
+https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
+
+#EXTINF:-1,Astro 3B
+https://z88.ubtvfans.com/live/rx3/1072/c67b9eaba4040f95114b5ab2e813b322/index.m3u8
+
+#EXTINF:-1,Astro 4
+https://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
 
 #EXTINF:-1,B1 Sport
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
