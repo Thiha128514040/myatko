@@ -46,6 +46,9 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/344
 #EXTINF:-1,ZODIACO Cartoon
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/680
 
+#EXTINF:-1,FEC Cartoon
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1169
+
 #EXTINF:-1,DISCOVERY KID 4K
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/348
 
@@ -131,6 +134,21 @@ https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1726292424-0-0-670
 #EXTINF:-1,MK Live 2
 https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1726292544-0-0-6cbf3aad9f01d775ffd5216a0eec321d
 
+#EXTINF:-1,MK PREMIER Live1
+https://vsd235.mycdn.me/hls/7022220216887.m3u8/sig/WexApMIw2h8/expires/1728299213239/srcIp/202.165.87.190/urls/45.136.21.84/clientType/0/srcAg/CHROME_ANDROID/mid/7535009734199/video.m3u8?p
+
+#EXTINF:-1,MK PREMIER Live2
+https://cloudserve.world/live/stream_7.m3u8
+
+#EXTINF:-1,MK SERIE A Live
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+
+#EXTINF:-1,MK LALEGA Live1
+https://cloudserve.world/live/stream_6.m3u8
+
+#EXTINF:-1,MK LALEGA Live2
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
 #EXTINF:-1,TEN_Sport
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
@@ -214,6 +232,24 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
 #EXTINF:-1,TNT_Sport 2
 http://315917.solanaflix.com:8080/live/TV-29323139/629007731463/5152.ts
+
+#EXTINF:-1,ESPN_Sport 1
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/131
+
+#EXTINF:-1,ESPN_Sport 2
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135
+
+#EXTINF:-1,ESPN_Sport 3
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
+
+#EXTINF:-1,ESPN_Sport 4
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143
+
+#EXTINF:-1,ESPN_Sport 5
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140
+
+#EXTINF:-1,ESPN_Sport 6
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
 ===================================================
 
